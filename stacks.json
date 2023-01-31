@@ -1,0 +1,4375 @@
+{
+  "github_organizations": [
+    "https://github.com/alexgo-io",
+    "https://github.com/alexgo-io",
+    "https://github.com/bitcoin-nfts",
+    "https://github.com/blackholeorganization",
+    "https://github.com/blockstack",
+    "https://github.com/Daemon-Technologies",
+    "https://github.com/DemocracyEarth",
+    "https://github.com/DLC-link",
+    "https://github.com/envelop-app",
+    "https://github.com/ethereal-market",
+    "https://github.com/frens-place",
+    "https://github.com/fungible-systems",
+    "https://github.com/fungible-systems/",
+    "https://github.com/hirosystems",
+    "https://github.com/lannister-capital",
+    "https://github.com/LNSwap",
+    "https://github.com/mechanismHQ",
+    "https://github.com/next-pass",
+    "https://github.com/openintents",
+    "https://github.com/pixus-tech",
+    "https://github.com/runkod",
+    "https://github.com/SpringRole",
+    "https://github.com/StackedSats",
+    "https://github.com/stacks-force",
+    "https://github.com/stacks-network",
+    "https://github.com/stacksfoundation",
+    "https://github.com/stacksgov",
+    "https://github.com/tintash",
+    "https://github.com/Trust-Machines"
+  ],
+  "sub_ecosystems": [
+    "alexgo-io",
+    "arkadiko-dao",
+    "Boom",
+    "citycoins",
+    "DLC-link",
+    "friedger-pool",
+    "Fungible Systems",
+    "hiro-systems",
+    "jolocom",
+    "Koku",
+    "lnstxbridge",
+    "Stacks Degens",
+    "synonymdev",
+    "syvita-guild"
+  ],
+  "title": "Stacks",
+  "repo": [
+    {
+      "url": "https://github.com/0xAsteria/clarity-counter"
+    },
+    {
+      "url": "https://github.com/0xc22b/stacks-demo"
+    },
+    {
+      "url": "https://github.com/0xc22b/stx-scripts"
+    },
+    {
+      "url": "https://github.com/10thfloor/mangoes"
+    },
+    {
+      "url": "https://github.com/22dugara/AICredit"
+    },
+    {
+      "url": "https://github.com/AbdulBasit-MrRobo/Counter-Even-Odd"
+    },
+    {
+      "url": "https://github.com/Agilan19/SB-Hacks-2021-Margin-Trading-Smart-Contract"
+    },
+    {
+      "url": "https://github.com/agnelvishal/blockstack-social-media"
+    },
+    {
+      "url": "https://github.com/agnelvishal/newsDiet"
+    },
+    {
+      "url": "https://github.com/agnelvishal/notepad"
+    },
+    {
+      "url": "https://github.com/agnelvishal/sarchy"
+    },
+    {
+      "url": "https://github.com/agnelvishal/TrustingTrust"
+    },
+    {
+      "url": "https://github.com/agraebe/clarity-gitpod"
+    },
+    {
+      "url": "https://github.com/agraebe/stacking-integration-sample"
+    },
+    {
+      "url": "https://github.com/aj07/FiStack"
+    },
+    {
+      "url": "https://github.com/ajtruex/dotfiles"
+    },
+    {
+      "url": "https://github.com/ajtruex/vue-blockstack-todo"
+    },
+    {
+      "url": "https://github.com/akornato/stacks-dashboard"
+    },
+    {
+      "url": "https://github.com/akshaychavakula/Decemia-TigerHacks2019"
+    },
+    {
+      "url": "https://github.com/alanthonyc/learn-clarity"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex-dao"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex-dao-proposals"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex-mocknet"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex-v1"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex-v1-docs"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex-v2-orderbook"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alex.js"
+    },
+    {
+      "url": "https://github.com/alexgo-io/alexgo.io"
+    },
+    {
+      "url": "https://github.com/alexgo-io/bridge-launch-governance"
+    },
+    {
+      "url": "https://github.com/alexgo-io/cdn"
+    },
+    {
+      "url": "https://github.com/alexgo-io/crypto-ecosystems"
+    },
+    {
+      "url": "https://github.com/alexgo-io/DefiLlama-Adapters"
+    },
+    {
+      "url": "https://github.com/alexgo-io/defillama-server"
+    },
+    {
+      "url": "https://github.com/alexgo-io/explorer"
+    },
+    {
+      "url": "https://github.com/alexgo-io/laplace-swagger"
+    },
+    {
+      "url": "https://github.com/alexgo-io/stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/alexgo-io/stacks.js"
+    },
+    {
+      "url": "https://github.com/alexgo-io/stx-atomic-swap"
+    },
+    {
+      "url": "https://github.com/alexkeating/vim-clarity"
+    },
+    {
+      "url": "https://github.com/algomaks/car-assistant"
+    },
+    {
+      "url": "https://github.com/algomax/car-assistant"
+    },
+    {
+      "url": "https://github.com/alicedapp/AliceX"
+    },
+    {
+      "url": "https://github.com/AliRaza954/Blockchain-Vote-casting-V1"
+    },
+    {
+      "url": "https://github.com/AliRaza954/Blockchain-VoteCasting"
+    },
+    {
+      "url": "https://github.com/alirazacodes/Blockchain-Vote-casting-V1"
+    },
+    {
+      "url": "https://github.com/alirazacodes/Blockchain-VoteCasting"
+    },
+    {
+      "url": "https://github.com/alvesjtiago/blockstack-large-storage"
+    },
+    {
+      "url": "https://github.com/alvesjtiago/electron-blockstack-demo"
+    },
+    {
+      "url": "https://github.com/amahajan87/countered"
+    },
+    {
+      "url": "https://github.com/amahajan87/InteractWithClarity"
+    },
+    {
+      "url": "https://github.com/amitlzkpa/berlinspies_bak"
+    },
+    {
+      "url": "https://github.com/amorriscode/stx-me"
+    },
+    {
+      "url": "https://github.com/andresousa/scannie"
+    },
+    {
+      "url": "https://github.com/animeshjn/blockstack"
+    },
+    {
+      "url": "https://github.com/ankianan/Checkin"
+    },
+    {
+      "url": "https://github.com/ankit90anand/Checkin"
+    },
+    {
+      "url": "https://github.com/AnthonyRonning/Local-Lightning"
+    },
+    {
+      "url": "https://github.com/AnthonyRonning/ShineWallet"
+    },
+    {
+      "url": "https://github.com/antonina-cherednichenko/clarity-challenge-conference"
+    },
+    {
+      "url": "https://github.com/antonina-cherednichenko/clarity-guess-secret"
+    },
+    {
+      "url": "https://github.com/aperdomoll90/eznft-dav"
+    },
+    {
+      "url": "https://github.com/ar-nadeem/MiniProject"
+    },
+    {
+      "url": "https://github.com/Arhmnshmzzz/Double-Spins"
+    },
+    {
+      "url": "https://github.com/arinyguedes/dphone"
+    },
+    {
+      "url": "https://github.com/arinyguedes/safenotes"
+    },
+    {
+      "url": "https://github.com/arkadiko-dao/arkadiko"
+    },
+    {
+      "url": "https://github.com/arkadiko-dao/keeper-services"
+    },
+    {
+      "url": "https://github.com/arkadiko-dao/landing"
+    },
+    {
+      "url": "https://github.com/Arsenal-Solutions/crypt05"
+    },
+    {
+      "url": "https://github.com/artus/BlockDiary"
+    },
+    {
+      "url": "https://github.com/artus/DeGist"
+    },
+    {
+      "url": "https://github.com/aryanvichare/picopay"
+    },
+    {
+      "url": "https://github.com/aulneau/blockstack-putfile-example"
+    },
+    {
+      "url": "https://github.com/aulneau/react-blockstack-redux-bundler"
+    },
+    {
+      "url": "https://github.com/avcohen/gatsby-source-blockstack"
+    },
+    {
+      "url": "https://github.com/aviculturist/bird-count"
+    },
+    {
+      "url": "https://github.com/aviculturist/cnry"
+    },
+    {
+      "url": "https://github.com/avthars/BlockTweet"
+    },
+    {
+      "url": "https://github.com/AYCHDeveloper/Blockstack"
+    },
+    {
+      "url": "https://github.com/ayushsahu247/Clarity-Smart-Contract-Time-Locked-Wallet"
+    },
+    {
+      "url": "https://github.com/ayushsahu247/Clarity-Voting-Contract"
+    },
+    {
+      "url": "https://github.com/BaiHuLaoShi/clarity-market-clone"
+    },
+    {
+      "url": "https://github.com/BeanBunny/SupplyChainRGB"
+    },
+    {
+      "url": "https://github.com/bentiancai629/solidity-demo"
+    },
+    {
+      "url": "https://github.com/betosmith2000/clarity-basic-vote"
+    },
+    {
+      "url": "https://github.com/betosmith2000/dMyBlog"
+    },
+    {
+      "url": "https://github.com/betosmith2000/encryptedbox"
+    },
+    {
+      "url": "https://github.com/bhu1st/clarity"
+    },
+    {
+      "url": "https://github.com/bishoymoussa/sharedKYC"
+    },
+    {
+      "url": "https://github.com/bissisoft/vps"
+    },
+    {
+      "url": "https://github.com/bitcoin-nfts/bitcoin-colors"
+    },
+    {
+      "url": "https://github.com/bitcoin-nfts/bitcoin-colors-generator"
+    },
+    {
+      "url": "https://github.com/bitcoin-nfts/bitcoin-faces-frontend"
+    },
+    {
+      "url": "https://github.com/bitcoin-nfts/stacks-svg"
+    },
+    {
+      "url": "https://github.com/bitfari/contracts-tokens"
+    },
+    {
+      "url": "https://github.com/blackholeorganization/BlackHoleMobile"
+    },
+    {
+      "url": "https://github.com/blackholeorganization/BlackHoleProtocol"
+    },
+    {
+      "url": "https://github.com/blackholeorganization/BlockstackPascal"
+    },
+    {
+      "url": "https://github.com/blockpac/DeTradeMe"
+    },
+    {
+      "url": "https://github.com/blockstack-packages/blockstack.js-old"
+    },
+    {
+      "url": "https://github.com/blockstack-radiks/banter"
+    },
+    {
+      "url": "https://github.com/blockstack/clarity-js"
+    },
+    {
+      "url": "https://github.com/blockstack/hiro.so"
+    },
+    {
+      "url": "https://github.com/blockstack/kube-integration-tests"
+    },
+    {
+      "url": "https://github.com/blockstack/stacks.co"
+    },
+    {
+      "url": "https://github.com/blockstackers/pox_pm"
+    },
+    {
+      "url": "https://github.com/BlockSurvey/ballot"
+    },
+    {
+      "url": "https://github.com/BlockSurvey/blockstack-angular"
+    },
+    {
+      "url": "https://github.com/BlockSurvey/BlockstackWorkshopAgenda"
+    },
+    {
+      "url": "https://github.com/blocktrivia/blocktrivia"
+    },
+    {
+      "url": "https://github.com/blockwill/blockwill"
+    },
+    {
+      "url": "https://github.com/blocoio/stacks-circles-app"
+    },
+    {
+      "url": "https://github.com/blocosapp/blocos"
+    },
+    {
+      "url": "https://github.com/bogachevanton/90stx"
+    },
+    {
+      "url": "https://github.com/bogachevanton/all-or-nothing"
+    },
+    {
+      "url": "https://github.com/bogachevanton/skullcoin"
+    },
+    {
+      "url": "https://github.com/boomcrypto/boom-contracts"
+    },
+    {
+      "url": "https://github.com/botoberich/boto-web"
+    },
+    {
+      "url": "https://github.com/BowTiedDeployer/customizable-nfts"
+    },
+    {
+      "url": "https://github.com/BowTiedDeployer/lootbox-vrf"
+    },
+    {
+      "url": "https://github.com/BowTiedDeployer/message-signing-authentication"
+    },
+    {
+      "url": "https://github.com/BowTiedDeployer/SFTs-GameFi"
+    },
+    {
+      "url": "https://github.com/BowTiedDeployer/trustless-rewards"
+    },
+    {
+      "url": "https://github.com/BowTiedDeployer/workshop-nft-integration"
+    },
+    {
+      "url": "https://github.com/brandonparee/blockstack-token-portfolio"
+    },
+    {
+      "url": "https://github.com/brendankhoury/Padlock-News"
+    },
+    {
+      "url": "https://github.com/brendankhoury/shellhacks2021"
+    },
+    {
+      "url": "https://github.com/BrianCottrell/memory-swim"
+    },
+    {
+      "url": "https://github.com/brycedev/agaze"
+    },
+    {
+      "url": "https://github.com/BTC-Rocks/btc-rocks"
+    },
+    {
+      "url": "https://github.com/bucko13/lightning-reader"
+    },
+    {
+      "url": "https://github.com/byzantion-xyz/alexandria-stx-indexer"
+    },
+    {
+      "url": "https://github.com/cameronfr/Paper"
+    },
+    {
+      "url": "https://github.com/candaceng/covid-model"
+    },
+    {
+      "url": "https://github.com/castig/castig.github.io"
+    },
+    {
+      "url": "https://github.com/castig/foods"
+    },
+    {
+      "url": "https://github.com/castig/octopress-greyshade-for-wordpress"
+    },
+    {
+      "url": "https://github.com/castig/pfnp"
+    },
+    {
+      "url": "https://github.com/castig/pfnp-bowieunicorn"
+    },
+    {
+      "url": "https://github.com/castig/pfnphappyhour"
+    },
+    {
+      "url": "https://github.com/castig/recipes"
+    },
+    {
+      "url": "https://github.com/CatLava/Clarity_universe"
+    },
+    {
+      "url": "https://github.com/CatLava/Freehold"
+    },
+    {
+      "url": "https://github.com/cbonoz/blockstack-casino"
+    },
+    {
+      "url": "https://github.com/cbonoz/cryptodonate"
+    },
+    {
+      "url": "https://github.com/cdepman/Prim"
+    },
+    {
+      "url": "https://github.com/cerebrowallet/cerebro-wallet"
+    },
+    {
+      "url": "https://github.com/CGDeviation/earn-chain"
+    },
+    {
+      "url": "https://github.com/CGDeviation/high-score"
+    },
+    {
+      "url": "https://github.com/childish-zamboni/ViralChain"
+    },
+    {
+      "url": "https://github.com/CipherDogs/bs-auth"
+    },
+    {
+      "url": "https://github.com/citycoins/cdn"
+    },
+    {
+      "url": "https://github.com/citycoins/citycoin"
+    },
+    {
+      "url": "https://github.com/citycoins/citycoin-ui"
+    },
+    {
+      "url": "https://github.com/citycoins/citycoins.co"
+    },
+    {
+      "url": "https://github.com/citycoins/contracts"
+    },
+    {
+      "url": "https://github.com/citycoins/docs"
+    },
+    {
+      "url": "https://github.com/citycoins/integrations"
+    },
+    {
+      "url": "https://github.com/citycoins/ui"
+    },
+    {
+      "url": "https://github.com/CityPools/poolmiami"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/ecosystem-dao"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/executor-dao"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/redstone-clarity-connector"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stacks-voice"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stx-semi-fungible-market"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stx-semi-fungible-token"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stx-signed-structured-data"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stxeco-server"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stxeco-svelte"
+    },
+    {
+      "url": "https://github.com/Clarity-Innovation-Lab/stxeco-vue"
+    },
+    {
+      "url": "https://github.com/clarity-lang/book"
+    },
+    {
+      "url": "https://github.com/clarity-lang/overview"
+    },
+    {
+      "url": "https://github.com/codeamt/GymStrategy"
+    },
+    {
+      "url": "https://github.com/codeswitchgames/gifstack"
+    },
+    {
+      "url": "https://github.com/cogarius/stackarius"
+    },
+    {
+      "url": "https://github.com/colealbon/cafe-society"
+    },
+    {
+      "url": "https://github.com/colemccracken/blockstack-tangle-ts"
+    },
+    {
+      "url": "https://github.com/colindean/blockstack-sshkey"
+    },
+    {
+      "url": "https://github.com/COVID-19-electronic-health-system/Corona-tracker"
+    },
+    {
+      "url": "https://github.com/cryptocracy/dapp"
+    },
+    {
+      "url": "https://github.com/cryptocracy/dapparatus"
+    },
+    {
+      "url": "https://github.com/cryptocracy/deruptars"
+    },
+    {
+      "url": "https://github.com/cryptocracy/remark"
+    },
+    {
+      "url": "https://github.com/cryptopanter/Btc-signature-check"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/dmt-dao-research"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/docs"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/explorer"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-Alert"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-Bitcoin-Pool"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-Bot"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-Data-Integration"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/mining-importer"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-Local-Server"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/mining-monitor-auth"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-Monitor-Client"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Mining-monitor-client-v2"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/Onstacks-client"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/stacks-blockchain"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/stacks-wallet"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/STX-Mining-Resources"
+    },
+    {
+      "url": "https://github.com/Daemon-Technologies/wormhole"
+    },
+    {
+      "url": "https://github.com/DAle-q/Clarity_casino"
+    },
+    {
+      "url": "https://github.com/danielmclain6/dollarsbankjavascript"
+    },
+    {
+      "url": "https://github.com/danosaur98/Updoot"
+    },
+    {
+      "url": "https://github.com/danparamov/mila-crm"
+    },
+    {
+      "url": "https://github.com/dantrevino/blockstack-quasar"
+    },
+    {
+      "url": "https://github.com/dantrevino/wallet-keys"
+    },
+    {
+      "url": "https://github.com/DAOed/Drive"
+    },
+    {
+      "url": "https://github.com/DAOed/Library"
+    },
+    {
+      "url": "https://github.com/DAOed/Search"
+    },
+    {
+      "url": "https://github.com/dappalachia/gaia-hub-helm"
+    },
+    {
+      "url": "https://github.com/dartman10/better-escrow"
+    },
+    {
+      "url": "https://github.com/dawar2151/clarity-erc721"
+    },
+    {
+      "url": "https://github.com/dek8000/blockstack-browser"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/advocacy"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/balance-keeper"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/blockchain"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/blockchain-voting"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/burnSignalContracts"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/chain"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/community."
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/concept"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/dao"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/dapp"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/DemocracyDAO"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/DesignSystem"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/dips"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/docs"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/exodus"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/handbook"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/high-level-picture"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/hour"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/kleros"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/landing"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/micropayment-voting"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/molochQV"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/My-DAO-Dashboard"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/old_dapp"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/paper"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/party"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/pohtokenlog"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/press"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/press-kit"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/proof"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/Proof-Of-Humanity"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/proof-of-humanity-web"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/protocol"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/quadratic-moloch"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/QuadraticMoloch"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/self"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/sovereign"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/ubi"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/ubi-landing"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/ubi-vaults-ui"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/vote"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/vzla-propone-cambio"
+    },
+    {
+      "url": "https://github.com/DemocracyEarth/wallet"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/landminis3_marketplace"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/landminis3_marketplace"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/landminis3_marketplace"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/simple-counter"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/simple-counter"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/warsaw-coliving"
+    },
+    {
+      "url": "https://github.com/DemocracyStudio/warsaw-coliving"
+    },
+    {
+      "url": "https://github.com/denismwangi/bitgojs"
+    },
+    {
+      "url": "https://github.com/devstra/giveout-contracts"
+    },
+    {
+      "url": "https://github.com/DevT999/zur-press"
+    },
+    {
+      "url": "https://github.com/dexhunter/stack-test"
+    },
+    {
+      "url": "https://github.com/dezzuzu/artupvote"
+    },
+    {
+      "url": "https://github.com/dhealy05/Hermes"
+    },
+    {
+      "url": "https://github.com/dhwndud408/TokenInfo"
+    },
+    {
+      "url": "https://github.com/diop/litflix"
+    },
+    {
+      "url": "https://github.com/diwakergupta/stacks-blockchain-tob-audit"
+    },
+    {
+      "url": "https://github.com/djnicholson/blockmarks"
+    },
+    {
+      "url": "https://github.com/djnicholson/blockslack"
+    },
+    {
+      "url": "https://github.com/djs-1001/clarity-counter"
+    },
+    {
+      "url": "https://github.com/djs-1001/clarity-counter"
+    },
+    {
+      "url": "https://github.com/dkb868/socialvault"
+    },
+    {
+      "url": "https://github.com/dladowitz/satoshi_nakamoto_vs_the_world"
+    },
+    {
+      "url": "https://github.com/DLC-link/apeswap-frontend"
+    },
+    {
+      "url": "https://github.com/DLC-link/cfd-dlc-js"
+    },
+    {
+      "url": "https://github.com/DLC-link/dlc-clarity-smart-contract"
+    },
+    {
+      "url": "https://github.com/DLC-link/dlc-lending-demo"
+    },
+    {
+      "url": "https://github.com/DLC-link/dlc-redstone-smart-contract"
+    },
+    {
+      "url": "https://github.com/DLC-link/dlc-solidity-smart-contract"
+    },
+    {
+      "url": "https://github.com/DLC-link/dlc-stacks-loan-contract"
+    },
+    {
+      "url": "https://github.com/DLC-link/dlc.link-take-home-challenge"
+    },
+    {
+      "url": "https://github.com/DLC-link/erc1363-payable-token"
+    },
+    {
+      "url": "https://github.com/DLC-link/example-dlc-clarity-project"
+    },
+    {
+      "url": "https://github.com/DLC-link/gitbook-docs"
+    },
+    {
+      "url": "https://github.com/DLC-link/lab-javascript-advanced-algorithms"
+    },
+    {
+      "url": "https://github.com/DLC-link/prototype-wallet-dlc-lib"
+    },
+    {
+      "url": "https://github.com/DLC-link/prototype-wallet-extension"
+    },
+    {
+      "url": "https://github.com/DLC-link/react-client"
+    },
+    {
+      "url": "https://github.com/DLC-link/rust-bitcoincore-rpc"
+    },
+    {
+      "url": "https://github.com/DLC-link/rust-dlc"
+    },
+    {
+      "url": "https://github.com/DLC-link/rust-dlc-examples"
+    },
+    {
+      "url": "https://github.com/DLC-link/sibyls"
+    },
+    {
+      "url": "https://github.com/DLC-link/stacks-chainlink-documentation"
+    },
+    {
+      "url": "https://github.com/DLC-link/stacks-contracts-all"
+    },
+    {
+      "url": "https://github.com/DLC-link/stxlink-faucet"
+    },
+    {
+      "url": "https://github.com/DomEscobar/E-Beweiser"
+    },
+    {
+      "url": "https://github.com/donedgardo/carreras"
+    },
+    {
+      "url": "https://github.com/dorucioclea/stacks-dev-env"
+    },
+    {
+      "url": "https://github.com/DotPodcast/django-blockstack-auth"
+    },
+    {
+      "url": "https://github.com/dotrungkien/2048"
+    },
+    {
+      "url": "https://github.com/dotrungkien/clarity-auction"
+    },
+    {
+      "url": "https://github.com/dotrungkien/clarity-composable-token"
+    },
+    {
+      "url": "https://github.com/dotrungkien/coupon"
+    },
+    {
+      "url": "https://github.com/dotrungkien/hero-craftsmanship"
+    },
+    {
+      "url": "https://github.com/DownQuark-Work/downquark.bountiesWeb3.Blockstack_WritersBlock"
+    },
+    {
+      "url": "https://github.com/dpericich/Hiro-Hackathon-Counter"
+    },
+    {
+      "url": "https://github.com/dpericich/Hiro-Hackathon-Counter"
+    },
+    {
+      "url": "https://github.com/dpericich/Hiro-Stackathon-NFT-ABCs"
+    },
+    {
+      "url": "https://github.com/dpericich/Hiro-Stackathon-NFT-ABCs"
+    },
+    {
+      "url": "https://github.com/drabkirn/notga"
+    },
+    {
+      "url": "https://github.com/Drewsup123/BlockStack-App"
+    },
+    {
+      "url": "https://github.com/dylanfloyd/modl"
+    },
+    {
+      "url": "https://github.com/dylanfloyd/silver"
+    },
+    {
+      "url": "https://github.com/dylanft/stableswaper"
+    },
+    {
+      "url": "https://github.com/dylanhogg/crazy-awesome-crypto"
+    },
+    {
+      "url": "https://github.com/eamonpenland/block"
+    },
+    {
+      "url": "https://github.com/eamonpenland/ccip-vote"
+    },
+    {
+      "url": "https://github.com/eamonpenland/executor-dao"
+    },
+    {
+      "url": "https://github.com/eamonpenland/poh-wallet-check"
+    },
+    {
+      "url": "https://github.com/eamonpenland/quadratic-stacks"
+    },
+    {
+      "url": "https://github.com/ecomloop/emprezzo"
+    },
+    {
+      "url": "https://github.com/eder-ai/compass-db"
+    },
+    {
+      "url": "https://github.com/edwincarbajal/dParking"
+    },
+    {
+      "url": "https://github.com/eFndfMwMuvuv3XP/joinfreehold"
+    },
+    {
+      "url": "https://github.com/egoist/denote"
+    },
+    {
+      "url": "https://github.com/elbaruni/clarity-election"
+    },
+    {
+      "url": "https://github.com/elbaruni/clarity-to-do-list"
+    },
+    {
+      "url": "https://github.com/elbaruni/Dapp-Games"
+    },
+    {
+      "url": "https://github.com/elif42/clarity-resources-ng"
+    },
+    {
+      "url": "https://github.com/elocremarc/stacks-hello-world"
+    },
+    {
+      "url": "https://github.com/emmaodia/clarity-counter"
+    },
+    {
+      "url": "https://github.com/ennea8/blockstack-hackathon-contract-001"
+    },
+    {
+      "url": "https://github.com/entaxy-project/entaxy"
+    },
+    {
+      "url": "https://github.com/envelop-app/envelop-android"
+    },
+    {
+      "url": "https://github.com/envelop-app/envelop-web"
+    },
+    {
+      "url": "https://github.com/envelop-app/envl-redirect"
+    },
+    {
+      "url": "https://github.com/envelop-app/worker-plugin"
+    },
+    {
+      "url": "https://github.com/EnzoMeertens/RichGetRicher-Clarity"
+    },
+    {
+      "url": "https://github.com/epoxy-protocol/epoxy-stx"
+    },
+    {
+      "url": "https://github.com/eric574/BlockGoods"
+    },
+    {
+      "url": "https://github.com/ERPGenie/Blockstack-POC-Crypto-Portfolio"
+    },
+    {
+      "url": "https://github.com/EscapeLabs/dCards-contracts"
+    },
+    {
+      "url": "https://github.com/EscapeLabs/dCards-contracts "
+    },
+    {
+      "url": "https://github.com/et-taousy/clarity-erc721"
+    },
+    {
+      "url": "https://github.com/ethereal-market/market"
+    },
+    {
+      "url": "https://github.com/eusebiogit/blockstackWebInterfaceRPC"
+    },
+    {
+      "url": "https://github.com/exp0nge/stacks-bodega-cat"
+    },
+    {
+      "url": "https://github.com/exp0nge/stacks-bodega-cat"
+    },
+    {
+      "url": "https://github.com/expenses/caster"
+    },
+    {
+      "url": "https://github.com/falkonprods/DAOist"
+    },
+    {
+      "url": "https://github.com/faragly/blockauth"
+    },
+    {
+      "url": "https://github.com/fariedt/retrytx"
+    },
+    {
+      "url": "https://github.com/Fernie-F/dead-hand"
+    },
+    {
+      "url": "https://github.com/ferrucc-io/kit-crm"
+    },
+    {
+      "url": "https://github.com/FhilF/durran-app"
+    },
+    {
+      "url": "https://github.com/FhilF/room-reservation-clarity"
+    },
+    {
+      "url": "https://github.com/FhilF/smartists-app"
+    },
+    {
+      "url": "https://github.com/FhilF/smartists-smart-contract-dev"
+    },
+    {
+      "url": "https://github.com/FhilF/tester"
+    },
+    {
+      "url": "https://github.com/flexfinRTP/clarity-counter"
+    },
+    {
+      "url": "https://github.com/flexfinRTP/clarity-hello-world"
+    },
+    {
+      "url": "https://github.com/flexfinRTP/clarity-nft"
+    },
+    {
+      "url": "https://github.com/flexfinRTP/clarity-timelocked-wallet"
+    },
+    {
+      "url": "https://github.com/foragerr/syvita-mining-discord-win-notifier"
+    },
+    {
+      "url": "https://github.com/foragerr/syvita-pool2-contributions"
+    },
+    {
+      "url": "https://github.com/foragerr/wenblok"
+    },
+    {
+      "url": "https://github.com/freethejazz/snippets-dapp"
+    },
+    {
+      "url": "https://github.com/frens-place/miamivoice"
+    },
+    {
+      "url": "https://github.com/friedger/awesome-stacks-chain"
+    },
+    {
+      "url": "https://github.com/friedger/blockstack-browser-twa"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-advent-calendar"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-catamaranswaps"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-dao"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-demo"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-friedger-pool"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-js-sdk"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-marketplace"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-pool-stx-future"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-profit-sharing-token"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-smart-contracts"
+    },
+    {
+      "url": "https://github.com/friedger/clarity-web-ide"
+    },
+    {
+      "url": "https://github.com/friedger/matrix-blockstack-auth"
+    },
+    {
+      "url": "https://github.com/friedger/speed-spend"
+    },
+    {
+      "url": "https://github.com/friedger/stacking"
+    },
+    {
+      "url": "https://github.com/friedger/stacks-pool-registry"
+    },
+    {
+      "url": "https://github.com/friedger/stacks-send-many"
+    },
+    {
+      "url": "https://github.com/friedger/stacks-swaps"
+    },
+    {
+      "url": "https://github.com/friedger/stacks-webflow"
+    },
+    {
+      "url": "https://github.com/friedger/time-calc"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/bitcoin-docker-cloud"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/bitcoin-utilities"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/card-nft"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/crypto-editor"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/fractional-nft"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/lab-experiment"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/random-test"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/supplier-server"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/test-contracts-what"
+    },
+    {
+      "url": "https://github.com/FriendsFerdinand/uint-to-string"
+    },
+    {
+      "url": "https://github.com/fungible-systems/bird-count"
+    },
+    {
+      "url": "https://github.com/fungible-systems/clarigen"
+    },
+    {
+      "url": "https://github.com/fungible-systems/clarinet"
+    },
+    {
+      "url": "https://github.com/fungible-systems/clarity.tmbundle"
+    },
+    {
+      "url": "https://github.com/fungible-systems/compressed-size-action"
+    },
+    {
+      "url": "https://github.com/fungible-systems/fly-stacks"
+    },
+    {
+      "url": "https://github.com/fungible-systems/gaia"
+    },
+    {
+      "url": "https://github.com/fungible-systems/grafana-loki-syslog-aio"
+    },
+    {
+      "url": "https://github.com/fungible-systems/hasura-graphql-metadata-db-only"
+    },
+    {
+      "url": "https://github.com/fungible-systems/hestia"
+    },
+    {
+      "url": "https://github.com/fungible-systems/hub"
+    },
+    {
+      "url": "https://github.com/fungible-systems/jotai-query-toolkit"
+    },
+    {
+      "url": "https://github.com/fungible-systems/marketplace-partners"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-gaia-hub"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-packed"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-examples"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-gitbook"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-monorepo"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-nextjs"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-nextjs-example"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-remix-example"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-svelte-example"
+    },
+    {
+      "url": "https://github.com/fungible-systems/micro-stacks-vue3"
+    },
+    {
+      "url": "https://github.com/fungible-systems/multisafe-ui"
+    },
+    {
+      "url": "https://github.com/fungible-systems/nelson-ui"
+    },
+    {
+      "url": "https://github.com/fungible-systems/nextra"
+    },
+    {
+      "url": "https://github.com/fungible-systems/nft-nyc-exclusive-app"
+    },
+    {
+      "url": "https://github.com/fungible-systems/noble-hashes"
+    },
+    {
+      "url": "https://github.com/fungible-systems/noble-secp256k1"
+    },
+    {
+      "url": "https://github.com/fungible-systems/nouns-builder"
+    },
+    {
+      "url": "https://github.com/fungible-systems/nox.sh"
+    },
+    {
+      "url": "https://github.com/fungible-systems/radiks"
+    },
+    {
+      "url": "https://github.com/fungible-systems/radiks-server"
+    },
+    {
+      "url": "https://github.com/fungible-systems/railway-stacks"
+    },
+    {
+      "url": "https://github.com/fungible-systems/react-native-webview-crypto"
+    },
+    {
+      "url": "https://github.com/fungible-systems/react-vite-webext"
+    },
+    {
+      "url": "https://github.com/fungible-systems/redstone-clarity-connector"
+    },
+    {
+      "url": "https://github.com/fungible-systems/render-stacks"
+    },
+    {
+      "url": "https://github.com/fungible-systems/reservoir-indexer"
+    },
+    {
+      "url": "https://github.com/fungible-systems/rn-expo-crypto-example"
+    },
+    {
+      "url": "https://github.com/fungible-systems/rx"
+    },
+    {
+      "url": "https://github.com/fungible-systems/sip-12-js"
+    },
+    {
+      "url": "https://github.com/fungible-systems/sip012.xyz"
+    },
+    {
+      "url": "https://github.com/fungible-systems/sip12"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacking-club"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacks-api-node"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacks-apps-registry"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacks-blockchain"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacks-graphql-api"
+    },
+    {
+      "url": "https://github.com/fungible-systems/stacks-wallet-web"
+    },
+    {
+      "url": "https://github.com/fungible-systems/store"
+    },
+    {
+      "url": "https://github.com/fungible-systems/storm"
+    },
+    {
+      "url": "https://github.com/fungible-systems/temporal-render-simple"
+    },
+    {
+      "url": "https://github.com/fungible-systems/uptime-kuma"
+    },
+    {
+      "url": "https://github.com/fungible-systems/vanilla-extract"
+    },
+    {
+      "url": "https://github.com/fungible-systems/webview-crypto"
+    },
+    {
+      "url": "https://github.com/fungible-systems/zora-docs"
+    },
+    {
+      "url": "https://github.com/FusionLedger/WarrenNet"
+    },
+    {
+      "url": "https://github.com/gaideo/gaideo"
+    },
+    {
+      "url": "https://github.com/GigameshGarages/WarrenNet"
+    },
+    {
+      "url": "https://github.com/gin/2019-cant-be-evil-part-2"
+    },
+    {
+      "url": "https://github.com/giorgionetg/giorgiotedesco.it-source-code"
+    },
+    {
+      "url": "https://github.com/GiraffeKey/goatle"
+    },
+    {
+      "url": "https://github.com/gkounas/blockstack-angular-boilerplate"
+    },
+    {
+      "url": "https://github.com/Godtide/Bitborrow"
+    },
+    {
+      "url": "https://github.com/Graphite-Docs/graphite"
+    },
+    {
+      "url": "https://github.com/Graphite-Docs/mailr-client"
+    },
+    {
+      "url": "https://github.com/gregorycoppola/cool-nft"
+    },
+    {
+      "url": "https://github.com/GueTorres/contracts"
+    },
+    {
+      "url": "https://github.com/HaroldDavis3/Two-Row-Wampum-Social-Layer-Platform"
+    },
+    {
+      "url": "https://github.com/harshnagoratela/gatsby-mysql-sourcedata"
+    },
+    {
+      "url": "https://github.com/hatskier/blockgag.co"
+    },
+    {
+      "url": "https://github.com/hatskier/blockstack-pure-js-app-example"
+    },
+    {
+      "url": "https://github.com/hatskier/codeplay.dev"
+    },
+    {
+      "url": "https://github.com/hatskier/dfm"
+    },
+    {
+      "url": "https://github.com/hatskier/drello"
+    },
+    {
+      "url": "https://github.com/hatskier/synths-on-stacks"
+    },
+    {
+      "url": "https://github.com/hatskier/synths-on-stacks"
+    },
+    {
+      "url": "https://github.com/hatskier/TryNotToLaugh.online"
+    },
+    {
+      "url": "https://github.com/hdriqi/paras-app"
+    },
+    {
+      "url": "https://github.com/hdriqi/piara-mobile"
+    },
+    {
+      "url": "https://github.com/HebuPatil/KeyWatch"
+    },
+    {
+      "url": "https://github.com/hellojags/SkySpaces"
+    },
+    {
+      "url": "https://github.com/hirevibes/docs"
+    },
+    {
+      "url": "https://github.com/hirevibes/landing-page"
+    },
+    {
+      "url": "https://github.com/hirevibes/reward-smart-contract"
+    },
+    {
+      "url": "https://github.com/hirevibes/reward-smart-contract-clarity"
+    },
+    {
+      "url": "https://github.com/hirevibes/send-many-vibes-cli"
+    },
+    {
+      "url": "https://github.com/hirevibes/staking-smart-contract"
+    },
+    {
+      "url": "https://github.com/hirevibes/token"
+    },
+    {
+      "url": "https://github.com/hirevibes/token-contract-stacks"
+    },
+    {
+      "url": "https://github.com/hirosystems/API-Automation"
+    },
+    {
+      "url": "https://github.com/hirosystems/app.co-api"
+    },
+    {
+      "url": "https://github.com/hirosystems/bitcoin"
+    },
+    {
+      "url": "https://github.com/hirosystems/bitcoin-docker"
+    },
+    {
+      "url": "https://github.com/hirosystems/blockchain-metrics"
+    },
+    {
+      "url": "https://github.com/hirosystems/btc-us-website"
+    },
+    {
+      "url": "https://github.com/hirosystems/charts"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarinet"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarinet-2"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-examples"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-jupyter-kernel"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-lsp"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-notebook"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-repl"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-starter"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity-starters"
+    },
+    {
+      "url": "https://github.com/hirosystems/clarity.tmbundle"
+    },
+    {
+      "url": "https://github.com/hirosystems/clear-waters"
+    },
+    {
+      "url": "https://github.com/hirosystems/community-meeting"
+    },
+    {
+      "url": "https://github.com/hirosystems/connect"
+    },
+    {
+      "url": "https://github.com/hirosystems/create-stacks"
+    },
+    {
+      "url": "https://github.com/hirosystems/dap-types"
+    },
+    {
+      "url": "https://github.com/hirosystems/debug_types"
+    },
+    {
+      "url": "https://github.com/hirosystems/debugger-demo"
+    },
+    {
+      "url": "https://github.com/hirosystems/deno"
+    },
+    {
+      "url": "https://github.com/hirosystems/docker-osxcross-rust"
+    },
+    {
+      "url": "https://github.com/hirosystems/docker-reaper"
+    },
+    {
+      "url": "https://github.com/hirosystems/docs"
+    },
+    {
+      "url": "https://github.com/hirosystems/docs-thomas1"
+    },
+    {
+      "url": "https://github.com/hirosystems/elastalert"
+    },
+    {
+      "url": "https://github.com/hirosystems/electrs"
+    },
+    {
+      "url": "https://github.com/hirosystems/eslint-config"
+    },
+    {
+      "url": "https://github.com/hirosystems/explorer"
+    },
+    {
+      "url": "https://github.com/hirosystems/fluentd-kubernetes-daemonset"
+    },
+    {
+      "url": "https://github.com/hirosystems/gaia-docker"
+    },
+    {
+      "url": "https://github.com/hirosystems/gh-action-testing"
+    },
+    {
+      "url": "https://github.com/hirosystems/gh-actions-example"
+    },
+    {
+      "url": "https://github.com/hirosystems/heystack"
+    },
+    {
+      "url": "https://github.com/hirosystems/hirosystems-thomas-clarinet-updates-110722"
+    },
+    {
+      "url": "https://github.com/hirosystems/js.org"
+    },
+    {
+      "url": "https://github.com/hirosystems/MIT-Bitcoin-Expo-2022-Hiro-Hackathon-Resources"
+    },
+    {
+      "url": "https://github.com/hirosystems/multisig-stx-btc"
+    },
+    {
+      "url": "https://github.com/hirosystems/neon-docker"
+    },
+    {
+      "url": "https://github.com/hirosystems/nft-nyc-exclusive-app"
+    },
+    {
+      "url": "https://github.com/hirosystems/orchestra"
+    },
+    {
+      "url": "https://github.com/hirosystems/osxcross"
+    },
+    {
+      "url": "https://github.com/hirosystems/piggy-bank"
+    },
+    {
+      "url": "https://github.com/hirosystems/prettier-config"
+    },
+    {
+      "url": "https://github.com/hirosystems/rfc-clarity-lang-converter"
+    },
+    {
+      "url": "https://github.com/hirosystems/rfc-hiro-platform-auth"
+    },
+    {
+      "url": "https://github.com/hirosystems/rfc-web3-oauth"
+    },
+    {
+      "url": "https://github.com/hirosystems/rod-protocol"
+    },
+    {
+      "url": "https://github.com/hirosystems/rx"
+    },
+    {
+      "url": "https://github.com/hirosystems/sips"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacking"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-2-1-testing"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-adoption-report"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-billboard"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-encoding-native-js"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-hyperchains"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-subnets"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-wallet"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks-wallet-web"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks.js"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks.js-examples"
+    },
+    {
+      "url": "https://github.com/hirosystems/stacks.js-starters"
+    },
+    {
+      "url": "https://github.com/hirosystems/todos"
+    },
+    {
+      "url": "https://github.com/hirosystems/token-metadata-service"
+    },
+    {
+      "url": "https://github.com/hirosystems/toshi"
+    },
+    {
+      "url": "https://github.com/hirosystems/toshi"
+    },
+    {
+      "url": "https://github.com/hirosystems/trichards-clarinet-updates-110722"
+    },
+    {
+      "url": "https://github.com/hirosystems/trichards-clarinet-updates-110723"
+    },
+    {
+      "url": "https://github.com/hirosystems/trichards-explorer"
+    },
+    {
+      "url": "https://github.com/hirosystems/trichards-stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/hirosystems/ui"
+    },
+    {
+      "url": "https://github.com/hKedia/dShare-blockstack"
+    },
+    {
+      "url": "https://github.com/HODLNG/clarity-profit-sharing-token"
+    },
+    {
+      "url": "https://github.com/homiebtc/stacksboard-clarity"
+    },
+    {
+      "url": "https://github.com/homiebtc/Updoot"
+    },
+    {
+      "url": "https://github.com/hongily25/expenseio"
+    },
+    {
+      "url": "https://github.com/hongily25/recipe-book"
+    },
+    {
+      "url": "https://github.com/hozzjss/cartman-stacking-consulting"
+    },
+    {
+      "url": "https://github.com/hozzjss/clarity-counter"
+    },
+    {
+      "url": "https://github.com/hozzjss/clarity-payroll"
+    },
+    {
+      "url": "https://github.com/hozzjss/clarity-property-rental"
+    },
+    {
+      "url": "https://github.com/hozzjss/clarity-tip-calculator"
+    },
+    {
+      "url": "https://github.com/hozzjss/cooperative-stacking"
+    },
+    {
+      "url": "https://github.com/hozzjss/nothing-faucet-backend"
+    },
+    {
+      "url": "https://github.com/hstove/ares"
+    },
+    {
+      "url": "https://github.com/hstove/bns-scripts"
+    },
+    {
+      "url": "https://github.com/hstove/clarigen-counter-example"
+    },
+    {
+      "url": "https://github.com/hstove/clarity-gitpod"
+    },
+    {
+      "url": "https://github.com/hstove/send-many-stx-cli"
+    },
+    {
+      "url": "https://github.com/hstove/stacks-fungible-token"
+    },
+    {
+      "url": "https://github.com/htachib/help_a_stranger_out"
+    },
+    {
+      "url": "https://github.com/HugoScaramal/secure-todo"
+    },
+    {
+      "url": "https://github.com/hyossid/Practice_Clarity"
+    },
+    {
+      "url": "https://github.com/iampeterbanjo/publik"
+    },
+    {
+      "url": "https://github.com/icidasset/diffuse"
+    },
+    {
+      "url": "https://github.com/indexofknowledge/iok"
+    },
+    {
+      "url": "https://github.com/irvin-s/docker_repair"
+    },
+    {
+      "url": "https://github.com/iwouldrathercode/nuxt-blockstack-starter"
+    },
+    {
+      "url": "https://github.com/jackzampolin/awesome-blockstack"
+    },
+    {
+      "url": "https://github.com/JacobRyan258/billboard"
+    },
+    {
+      "url": "https://github.com/JacobRyan258/clarity-counter"
+    },
+    {
+      "url": "https://github.com/jacobryans/QuikCardFE"
+    },
+    {
+      "url": "https://github.com/jaeboklee-modo/Clarity-misc"
+    },
+    {
+      "url": "https://github.com/jakes-git/btc-us-website"
+    },
+    {
+      "url": "https://github.com/jakes-git/StacksNFTBot"
+    },
+    {
+      "url": "https://github.com/jarevalo9/SmartVoting"
+    },
+    {
+      "url": "https://github.com/jasonelliots/blockstack_todo"
+    },
+    {
+      "url": "https://github.com/JBotwina/Clarity-Hackathon-Submission"
+    },
+    {
+      "url": "https://github.com/jcnelson/bitcoin-p2p-firewall"
+    },
+    {
+      "url": "https://github.com/jcnelson/blockstack-search-tools"
+    },
+    {
+      "url": "https://github.com/jcnelson/clarinet"
+    },
+    {
+      "url": "https://github.com/jcnelson/clarity-bitcoin"
+    },
+    {
+      "url": "https://github.com/jcnelson/cv"
+    },
+    {
+      "url": "https://github.com/jcnelson/did-method-registry"
+    },
+    {
+      "url": "https://github.com/jcnelson/docs.blockstack"
+    },
+    {
+      "url": "https://github.com/jcnelson/dotfiles"
+    },
+    {
+      "url": "https://github.com/jcnelson/gaia-cli"
+    },
+    {
+      "url": "https://github.com/jcnelson/get-stacking-info.sh"
+    },
+    {
+      "url": "https://github.com/jcnelson/nftree"
+    },
+    {
+      "url": "https://github.com/jcnelson/poxl"
+    },
+    {
+      "url": "https://github.com/jcnelson/rust-trie"
+    },
+    {
+      "url": "https://github.com/jcnelson/signin-cli"
+    },
+    {
+      "url": "https://github.com/jcnelson/stacker"
+    },
+    {
+      "url": "https://github.com/jcnelson/Stacks-Grants"
+    },
+    {
+      "url": "https://github.com/jcnelson/stacks-node-cli"
+    },
+    {
+      "url": "https://github.com/jcnelson/status.sh"
+    },
+    {
+      "url": "https://github.com/jcnelson/stx-future"
+    },
+    {
+      "url": "https://github.com/jcnelson/stx-wallet-cli"
+    },
+    {
+      "url": "https://github.com/jcnelson/syndicate-website"
+    },
+    {
+      "url": "https://github.com/jcnelson/website"
+    },
+    {
+      "url": "https://github.com/jcnelson/wrb"
+    },
+    {
+      "url": "https://github.com/jdbender66/clarity-smart-contracts"
+    },
+    {
+      "url": "https://github.com/jeffreyfung7/77fung"
+    },
+    {
+      "url": "https://github.com/jesalg/blockstack-badge"
+    },
+    {
+      "url": "https://github.com/jessicaanhdao/PLAiV"
+    },
+    {
+      "url": "https://github.com/jhammond2012/stacks-grants-staging"
+    },
+    {
+      "url": "https://github.com/joberding/Dappity"
+    },
+    {
+      "url": "https://github.com/joekinney-png/clarity-tutorials"
+    },
+    {
+      "url": "https://github.com/joerlop/diario"
+    },
+    {
+      "url": "https://github.com/Joggz/lemonade_stand-clarity"
+    },
+    {
+      "url": "https://github.com/jolocom/Stacks-did-method"
+    },
+    {
+      "url": "https://github.com/jorishermans/storagestack"
+    },
+    {
+      "url": "https://github.com/josecanhelp/dogepunks"
+    },
+    {
+      "url": "https://github.com/JoshHalvorson/DateNight"
+    },
+    {
+      "url": "https://github.com/jpaulet/dArray"
+    },
+    {
+      "url": "https://github.com/jpaulet/dcrm"
+    },
+    {
+      "url": "https://github.com/jpnorair/clarity-hacks-basics"
+    },
+    {
+      "url": "https://github.com/jui2010/SplitzPay"
+    },
+    {
+      "url": "https://github.com/juliavi/blockstack-browser-ios"
+    },
+    {
+      "url": "https://github.com/kaiiyer/my-blockstack"
+    },
+    {
+      "url": "https://github.com/kantai/blockstack-key-recovery"
+    },
+    {
+      "url": "https://github.com/kantai/blockstack-proof-validator"
+    },
+    {
+      "url": "https://github.com/kantai/blockstack-resolver"
+    },
+    {
+      "url": "https://github.com/kantai/blockstack-transfer-service"
+    },
+    {
+      "url": "https://github.com/kantai/blockstack-trezor-js"
+    },
+    {
+      "url": "https://github.com/kantai/clarity-avm"
+    },
+    {
+      "url": "https://github.com/kantai/multisig-cli"
+    },
+    {
+      "url": "https://github.com/kantai/stacks-block-fee-metrics"
+    },
+    {
+      "url": "https://github.com/kantai/stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/kantai/subdomain-registrar"
+    },
+    {
+      "url": "https://github.com/kantai/unified-vscode"
+    },
+    {
+      "url": "https://github.com/kchia/citycoins-citycoin"
+    },
+    {
+      "url": "https://github.com/kchia/citycoins-citycoin-ui"
+    },
+    {
+      "url": "https://github.com/kennyle12/Todos"
+    },
+    {
+      "url": "https://github.com/kentywang/Afia"
+    },
+    {
+      "url": "https://github.com/KevinGConyers/Change-Vote"
+    },
+    {
+      "url": "https://github.com/khoa-nvk/desplitly"
+    },
+    {
+      "url": "https://github.com/Kitemaker/earthdata"
+    },
+    {
+      "url": "https://github.com/Kitemaker/noteit"
+    },
+    {
+      "url": "https://github.com/kjchiang3/stackswap-docs"
+    },
+    {
+      "url": "https://github.com/kkomaz/debut"
+    },
+    {
+      "url": "https://github.com/kkomaz/landing-ir"
+    },
+    {
+      "url": "https://github.com/kkomaz/Proofs"
+    },
+    {
+      "url": "https://github.com/knaut/feed"
+    },
+    {
+      "url": "https://github.com/KStasi/clarity-uint256-lib"
+    },
+    {
+      "url": "https://github.com/kuoyehs/clarity-sayhi"
+    },
+    {
+      "url": "https://github.com/lannister-capital/lannister-app"
+    },
+    {
+      "url": "https://github.com/lannister-capital/lannister-ios"
+    },
+    {
+      "url": "https://github.com/lannister-capital/lannister-landing"
+    },
+    {
+      "url": "https://github.com/layerswap/bransfer-for-woocommerce"
+    },
+    {
+      "url": "https://github.com/layerswap/bransferdocs"
+    },
+    {
+      "url": "https://github.com/layerswap/bransferstacks"
+    },
+    {
+      "url": "https://github.com/layerswap/layerswapapp"
+    },
+    {
+      "url": "https://github.com/layerswap/maintenance-page"
+    },
+    {
+      "url": "https://github.com/layerswap/motherfuckinglandingpage"
+    },
+    {
+      "url": "https://github.com/layerswap/static"
+    },
+    {
+      "url": "https://github.com/LeastAuthority/stacks.js"
+    },
+    {
+      "url": "https://github.com/LeastAuthority/ux"
+    },
+    {
+      "url": "https://github.com/leoj3n/darchive"
+    },
+    {
+      "url": "https://github.com/letscodedev/DevIT"
+    },
+    {
+      "url": "https://github.com/lgalabru/bfs"
+    },
+    {
+      "url": "https://github.com/lgalabru/clarity-contract-ci-demo"
+    },
+    {
+      "url": "https://github.com/lgalabru/clarity-lsp"
+    },
+    {
+      "url": "https://github.com/lgalabru/clarity-repl"
+    },
+    {
+      "url": "https://github.com/Light-Labs/clarity-xbtc-send-many"
+    },
+    {
+      "url": "https://github.com/Light-Labs/community-handles"
+    },
+    {
+      "url": "https://github.com/Light-Labs/cryptoglyphs-ts"
+    },
+    {
+      "url": "https://github.com/Light-Labs/media-metadata-schemas"
+    },
+    {
+      "url": "https://github.com/Light-Labs/protocol"
+    },
+    {
+      "url": "https://github.com/Light-Labs/rydcon"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-bridge"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-bridge-rust"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-cli-proto"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-client"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-nft"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-prototype-firmware-releases"
+    },
+    {
+      "url": "https://github.com/Light-Labs/ryder-proxy-proto"
+    },
+    {
+      "url": "https://github.com/Light-Labs/Satodime-Android"
+    },
+    {
+      "url": "https://github.com/Light-Labs/stacks-reference-data"
+    },
+    {
+      "url": "https://github.com/Light-Labs/stacks-wallet-web"
+    },
+    {
+      "url": "https://github.com/Light-Labs/stx-profiles"
+    },
+    {
+      "url": "https://github.com/liyunarena/clarity-say-yo"
+    },
+    {
+      "url": "https://github.com/lketchersid/clarity-smartcontracts"
+    },
+    {
+      "url": "https://github.com/LNow/bitcoin"
+    },
+    {
+      "url": "https://github.com/LNow/claritest"
+    },
+    {
+      "url": "https://github.com/LNow/clarity-antlr4"
+    },
+    {
+      "url": "https://github.com/LNow/clarity-notes-archive"
+    },
+    {
+      "url": "https://github.com/LNow/clarity-projects"
+    },
+    {
+      "url": "https://github.com/LNow/clarity-template"
+    },
+    {
+      "url": "https://github.com/LNow/clarity.tmbundle"
+    },
+    {
+      "url": "https://github.com/LNow/clarity.tmbundle"
+    },
+    {
+      "url": "https://github.com/LNow/executable-proposals"
+    },
+    {
+      "url": "https://github.com/LNow/ft-steal"
+    },
+    {
+      "url": "https://github.com/LNow/mev_bundle_generator"
+    },
+    {
+      "url": "https://github.com/LNow/otc-swap"
+    },
+    {
+      "url": "https://github.com/LNow/testing-example"
+    },
+    {
+      "url": "https://github.com/LNow/token-oracle"
+    },
+    {
+      "url": "https://github.com/LNSwap/lnstxbridge"
+    },
+    {
+      "url": "https://github.com/LNSwap/lnstxbridge-client"
+    },
+    {
+      "url": "https://github.com/LNSwap/lnstxbridge-dashboard"
+    },
+    {
+      "url": "https://github.com/LNSwap/umbrel-community-app-store"
+    },
+    {
+      "url": "https://github.com/locationdiary/locationdiary"
+    },
+    {
+      "url": "https://github.com/loganlenz"
+    },
+    {
+      "url": "https://github.com/LoRdSoban/hospitalDAO"
+    },
+    {
+      "url": "https://github.com/LoRdSoban/Practice_Smart_Contracts"
+    },
+    {
+      "url": "https://github.com/LoRdSoban/stu_marks_smartContract"
+    },
+    {
+      "url": "https://github.com/LoRdSoban/todo_smart_contract"
+    },
+    {
+      "url": "https://github.com/ltfschoen/blockstack"
+    },
+    {
+      "url": "https://github.com/lyledavids/calcbmi"
+    },
+    {
+      "url": "https://github.com/maaz28/VideoStack"
+    },
+    {
+      "url": "https://github.com/macbury/mon-io"
+    },
+    {
+      "url": "https://github.com/magicstx/bridge"
+    },
+    {
+      "url": "https://github.com/magicstx/magic-protocol"
+    },
+    {
+      "url": "https://github.com/magicstx/supplier-server"
+    },
+    {
+      "url": "https://github.com/marcojrfurtado/blockOgram"
+    },
+    {
+      "url": "https://github.com/markmhx/bimba"
+    },
+    {
+      "url": "https://github.com/markmhx/bimba-coin"
+    },
+    {
+      "url": "https://github.com/markmhx/blockstack-sandbox"
+    },
+    {
+      "url": "https://github.com/markmhx/humans"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/blockstack-thief"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/c32check"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/clarity-experiments"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/executor-dao"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/lumio"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/redstone-clarity-connector"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/redstone-node"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/stackstarter"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/stx-atomic-swap"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/stx-semi-fungible-token"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/stx-signed-message"
+    },
+    {
+      "url": "https://github.com/MarvinJanssen/stx-signed-structured-data"
+    },
+    {
+      "url": "https://github.com/Mate-Repo/lock-contract-clarity"
+    },
+    {
+      "url": "https://github.com/math77/clarity-introduction"
+    },
+    {
+      "url": "https://github.com/maximfadeev/layer-contract"
+    },
+    {
+      "url": "https://github.com/MayurPatel99/InsureMe"
+    },
+    {
+      "url": "https://github.com/mcamara/tohyo"
+    },
+    {
+      "url": "https://github.com/mcqnyc/tickets-nft"
+    },
+    {
+      "url": "https://github.com/mcsuy1998/mark-token"
+    },
+    {
+      "url": "https://github.com/mdomingo2/TotalRewardsStudioIntegration"
+    },
+    {
+      "url": "https://github.com/mechanismHQ/blog"
+    },
+    {
+      "url": "https://github.com/mechanismHQ/bns-x"
+    },
+    {
+      "url": "https://github.com/mechanismHQ/clarigen"
+    },
+    {
+      "url": "https://github.com/mechanismHQ/clarigen-deno"
+    },
+    {
+      "url": "https://github.com/mechanismHQ/clarigen-docs"
+    },
+    {
+      "url": "https://github.com/mechanismHQ/crypto-ecosystems"
+    },
+    {
+      "url": "https://github.com/Megapont/megapont-ape-club-contracts"
+    },
+    {
+      "url": "https://github.com/Miahelloworld/explorer"
+    },
+    {
+      "url": "https://github.com/michaeldai1006/SU-CIS600-project-decentralized-info-safekeeping"
+    },
+    {
+      "url": "https://github.com/MichaelFedora/unofficial-blockstack-extension"
+    },
+    {
+      "url": "https://github.com/mikeogezi/blockstack-bible"
+    },
+    {
+      "url": "https://github.com/MikeSpa/dex-on-stacks"
+    },
+    {
+      "url": "https://github.com/minaahilimtiaz/clarity-single-counter"
+    },
+    {
+      "url": "https://github.com/minaahilimtiaz/lunar-property-marketplace"
+    },
+    {
+      "url": "https://github.com/mistermoe/blockchain"
+    },
+    {
+      "url": "https://github.com/mistmurk/BlockBoard"
+    },
+    {
+      "url": "https://github.com/Mogunsina/Cant-Be-Evil_Spell-It"
+    },
+    {
+      "url": "https://github.com/MoHuzaifa/clarity-training"
+    },
+    {
+      "url": "https://github.com/muneebm/blockstack-quasar-demo"
+    },
+    {
+      "url": "https://github.com/muneebm/xordrive"
+    },
+    {
+      "url": "https://github.com/mutharasus/MIA-Mining-Analysis"
+    },
+    {
+      "url": "https://github.com/mysterycommand/blockpaint"
+    },
+    {
+      "url": "https://github.com/n4cr/stacks-playground"
+    },
+    {
+      "url": "https://github.com/nadia-i-k/healthy-living"
+    },
+    {
+      "url": "https://github.com/nadia-i-k/make-a-difference"
+    },
+    {
+      "url": "https://github.com/naresh-golla/mystack"
+    },
+    {
+      "url": "https://github.com/nelonoel/bye.link"
+    },
+    {
+      "url": "https://github.com/neoswap-ai/multiway-swap-js"
+    },
+    {
+      "url": "https://github.com/nerdic-coder/block-photos"
+    },
+    {
+      "url": "https://github.com/nerdic-coder/whimmy"
+    },
+    {
+      "url": "https://github.com/next-pass/nextpass-app"
+    },
+    {
+      "url": "https://github.com/next-pass/nextpass-artwork"
+    },
+    {
+      "url": "https://github.com/NickCarneiro/stacks"
+    },
+    {
+      "url": "https://github.com/njordhov/clarity-sequence"
+    },
+    {
+      "url": "https://github.com/njordhov/dcrypt"
+    },
+    {
+      "url": "https://github.com/njordhov/pietron"
+    },
+    {
+      "url": "https://github.com/njordhov/react-blockstack"
+    },
+    {
+      "url": "https://github.com/nnaka/clarity-supply-chain"
+    },
+    {
+      "url": "https://github.com/novum-insights/arcane-app"
+    },
+    {
+      "url": "https://github.com/novum-insights/novum_stacks_dataverse_backend"
+    },
+    {
+      "url": "https://github.com/npdeep/clarity-provenance"
+    },
+    {
+      "url": "https://github.com/ntheile/blockusign"
+    },
+    {
+      "url": "https://github.com/ntheile/sheety-app"
+    },
+    {
+      "url": "https://github.com/ntzwrk/blockstack-core-client.ts"
+    },
+    {
+      "url": "https://github.com/ntzwrk/blockstack.ts"
+    },
+    {
+      "url": "https://github.com/nurASingh/nft-contract"
+    },
+    {
+      "url": "https://github.com/nurASingh/nft-server"
+    },
+    {
+      "url": "https://github.com/OasysFoundation/Oasys-Authentication"
+    },
+    {
+      "url": "https://github.com/obycode/nftrentals.btc"
+    },
+    {
+      "url": "https://github.com/obylabs/clarigen"
+    },
+    {
+      "url": "https://github.com/oiclid/clarity-resources"
+    },
+    {
+      "url": "https://github.com/okibeogezi/blockstack-bible"
+    },
+    {
+      "url": "https://github.com/oojr/blockstack-sports-pick"
+    },
+    {
+      "url": "https://github.com/open-nomie/nomie"
+    },
+    {
+      "url": "https://github.com/open-nomie/nomie5"
+    },
+    {
+      "url": "https://github.com/open-nomie/web-vault"
+    },
+    {
+      "url": "https://github.com/openintents/aainterfaces"
+    },
+    {
+      "url": "https://github.com/openintents/aboutapp"
+    },
+    {
+      "url": "https://github.com/openintents/aboutapp-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/alternative-apps-android"
+    },
+    {
+      "url": "https://github.com/openintents/alternative-apps-js"
+    },
+    {
+      "url": "https://github.com/openintents/android_packages_apps_CMFileManager"
+    },
+    {
+      "url": "https://github.com/openintents/app-center"
+    },
+    {
+      "url": "https://github.com/openintents/calendar-sync"
+    },
+    {
+      "url": "https://github.com/openintents/calendar-web"
+    },
+    {
+      "url": "https://github.com/openintents/chat-web"
+    },
+    {
+      "url": "https://github.com/openintents/cloudsync"
+    },
+    {
+      "url": "https://github.com/openintents/convertcsv"
+    },
+    {
+      "url": "https://github.com/openintents/convertcsv-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/countdown"
+    },
+    {
+      "url": "https://github.com/openintents/countdown-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/did-on-btc"
+    },
+    {
+      "url": "https://github.com/openintents/directory-type"
+    },
+    {
+      "url": "https://github.com/openintents/distribution"
+    },
+    {
+      "url": "https://github.com/openintents/filemanager"
+    },
+    {
+      "url": "https://github.com/openintents/filemanager-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/flashlight"
+    },
+    {
+      "url": "https://github.com/openintents/flashlight-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/gitix"
+    },
+    {
+      "url": "https://github.com/openintents/gradle-fdroid-plugin"
+    },
+    {
+      "url": "https://github.com/openintents/gsoc2012"
+    },
+    {
+      "url": "https://github.com/openintents/intents-registry_eclipse"
+    },
+    {
+      "url": "https://github.com/openintents/keyboardcts"
+    },
+    {
+      "url": "https://github.com/openintents/members"
+    },
+    {
+      "url": "https://github.com/openintents/notepad"
+    },
+    {
+      "url": "https://github.com/openintents/notepad-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/openintents"
+    },
+    {
+      "url": "https://github.com/openintents/openintents-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/openintents.github.io"
+    },
+    {
+      "url": "https://github.com/openintents/plaphoons-for-android"
+    },
+    {
+      "url": "https://github.com/openintents/public-mvn-repo"
+    },
+    {
+      "url": "https://github.com/openintents/safe"
+    },
+    {
+      "url": "https://github.com/openintents/safe-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/sensorsimulator"
+    },
+    {
+      "url": "https://github.com/openintents/shoppinglist"
+    },
+    {
+      "url": "https://github.com/openintents/shoppinglist-repo-manifest"
+    },
+    {
+      "url": "https://github.com/openintents/shoppinglist_ios"
+    },
+    {
+      "url": "https://github.com/openintents/shoppinglist_winphone"
+    },
+    {
+      "url": "https://github.com/openintents/stacks-projects-docs"
+    },
+    {
+      "url": "https://github.com/openintents/stacks-transactions-kotlin"
+    },
+    {
+      "url": "https://github.com/openintents/Stanley"
+    },
+    {
+      "url": "https://github.com/openintents/support"
+    },
+    {
+      "url": "https://github.com/openintents/timesheet"
+    },
+    {
+      "url": "https://github.com/openintents/translations-descriptions"
+    },
+    {
+      "url": "https://github.com/openintents/translations-export"
+    },
+    {
+      "url": "https://github.com/openintents/translations-import"
+    },
+    {
+      "url": "https://github.com/openintents/translations-scripts"
+    },
+    {
+      "url": "https://github.com/openintents/webintents-agent"
+    },
+    {
+      "url": "https://github.com/openintents/webinterface"
+    },
+    {
+      "url": "https://github.com/openintents/website"
+    },
+    {
+      "url": "https://github.com/openintents/wifiserver"
+    },
+    {
+      "url": "https://github.com/options-vault/options-vault"
+    },
+    {
+      "url": "https://github.com/options-vault/options-vault"
+    },
+    {
+      "url": "https://github.com/otorno/hestia"
+    },
+    {
+      "url": "https://github.com/owasim1/firstlast"
+    },
+    {
+      "url": "https://github.com/owasim1/marketplace"
+    },
+    {
+      "url": "https://github.com/owasim1/superfandom-bot"
+    },
+    {
+      "url": "https://github.com/owasim1/Vue-single-page-app"
+    },
+    {
+      "url": "https://github.com/owasim1/webview-poc"
+    },
+    {
+      "url": "https://github.com/Oyeins-GUI/Counter-dApp"
+    },
+    {
+      "url": "https://github.com/Oyeins-GUI/nft"
+    },
+    {
+      "url": "https://github.com/paradigma-cl/dappprofile"
+    },
+    {
+      "url": "https://github.com/paradigma-cl/stackscomponents"
+    },
+    {
+      "url": "https://github.com/pgray-hiro/stacks-billboard"
+    },
+    {
+      "url": "https://github.com/phang0209/stacks-project"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/arkadiko-dao"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/bitcoin-chainstate-parser"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/bitcoin_analytics"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/caravan"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/read-blockchain"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/stacksmfers"
+    },
+    {
+      "url": "https://github.com/philipdesmedt/stacksmfers"
+    },
+    {
+      "url": "https://github.com/phouchens/clarity-prototype-nft"
+    },
+    {
+      "url": "https://github.com/Pierre-Gilles/bitcoin-portfolio-manager"
+    },
+    {
+      "url": "https://github.com/Pierre-Gilles/encryptmyphotos"
+    },
+    {
+      "url": "https://github.com/pieterjan-blockchain/blockchain_api"
+    },
+    {
+      "url": "https://github.com/PixelNoob/clarity-contracts"
+    },
+    {
+      "url": "https://github.com/pixus-tech/coordinator"
+    },
+    {
+      "url": "https://github.com/pixus-tech/webapp"
+    },
+    {
+      "url": "https://github.com/pixus-tech/website"
+    },
+    {
+      "url": "https://github.com/planbetter/planbetter"
+    },
+    {
+      "url": "https://github.com/planet369/latestContracts"
+    },
+    {
+      "url": "https://github.com/powxconsensus/StackAgent"
+    },
+    {
+      "url": "https://github.com/pradel/blockstack-devtool"
+    },
+    {
+      "url": "https://github.com/pradel/blockstack-wallet"
+    },
+    {
+      "url": "https://github.com/pradel/craco-blockstack"
+    },
+    {
+      "url": "https://github.com/pradel/react-blockstack-button"
+    },
+    {
+      "url": "https://github.com/pradel/sigle"
+    },
+    {
+      "url": "https://github.com/pradel/twoblocks"
+    },
+    {
+      "url": "https://github.com/prahaladbelavadi/hello-blockstack"
+    },
+    {
+      "url": "https://github.com/PravicaInc/blockstack-android"
+    },
+    {
+      "url": "https://github.com/PravicaInc/blockstack-android"
+    },
+    {
+      "url": "https://github.com/PravicaInc/explorer"
+    },
+    {
+      "url": "https://github.com/PravicaInc/explorer"
+    },
+    {
+      "url": "https://github.com/PravicaInc/pravica-issues"
+    },
+    {
+      "url": "https://github.com/PravicaInc/pravica-issues"
+    },
+    {
+      "url": "https://github.com/PravicaInc/react-native-blockstack-radiks-boilerplate"
+    },
+    {
+      "url": "https://github.com/PravicaInc/stacks-wallet-web"
+    },
+    {
+      "url": "https://github.com/PravicaInc/stacks.js"
+    },
+    {
+      "url": "https://github.com/PravicaInc/Wise"
+    },
+    {
+      "url": "https://github.com/PravicaInc/wise-js"
+    },
+    {
+      "url": "https://github.com/priyanshu-678/Sinecure"
+    },
+    {
+      "url": "https://github.com/priyanshu-678/StackAgent"
+    },
+    {
+      "url": "https://github.com/proiacm/kudos"
+    },
+    {
+      "url": "https://github.com/proofofgame/skullcoin"
+    },
+    {
+      "url": "https://github.com/pseudozach/betya.tk"
+    },
+    {
+      "url": "https://github.com/pseudozach/lnstxbridge"
+    },
+    {
+      "url": "https://github.com/pseudozach/lnstxbridge-frontend"
+    },
+    {
+      "url": "https://github.com/pseudozach/lnswap-widget"
+    },
+    {
+      "url": "https://github.com/pseudozach/satback.tk"
+    },
+    {
+      "url": "https://github.com/pseudozach/stxoracle"
+    },
+    {
+      "url": "https://github.com/pseudozach/stxpredict"
+    },
+    {
+      "url": "https://github.com/pseudozach/yaver.tk"
+    },
+    {
+      "url": "https://github.com/psgganesh/thedailyhabits"
+    },
+    {
+      "url": "https://github.com/psq/flexr"
+    },
+    {
+      "url": "https://github.com/psq/stacks-dump"
+    },
+    {
+      "url": "https://github.com/psq/stacks-faucet"
+    },
+    {
+      "url": "https://github.com/psq/stacks-gen"
+    },
+    {
+      "url": "https://github.com/psq/stacks-open-oracle"
+    },
+    {
+      "url": "https://github.com/psq/swapr"
+    },
+    {
+      "url": "https://github.com/psq/swapr-ui"
+    },
+    {
+      "url": "https://github.com/PUN-app/PUN-clarity"
+    },
+    {
+      "url": "https://github.com/PUN-app/PUN-client"
+    },
+    {
+      "url": "https://github.com/puncsky/touchbase.ai"
+    },
+    {
+      "url": "https://github.com/qxotk/clarity-book"
+    },
+    {
+      "url": "https://github.com/raae/pow-app"
+    },
+    {
+      "url": "https://github.com/radicleart/brightblock-oam"
+    },
+    {
+      "url": "https://github.com/radicleart/clarity-examples"
+    },
+    {
+      "url": "https://github.com/radicleart/clarity-hackathon-level1"
+    },
+    {
+      "url": "https://github.com/radicleart/clarity-market"
+    },
+    {
+      "url": "https://github.com/radicleart/clarity-rstack"
+    },
+    {
+      "url": "https://github.com/radicleart/fe-artapp"
+    },
+    {
+      "url": "https://github.com/radicleart/fe-lsat"
+    },
+    {
+      "url": "https://github.com/radicleart/fe-mesh"
+    },
+    {
+      "url": "https://github.com/radicleart/fe-risidio"
+    },
+    {
+      "url": "https://github.com/radicleart/fe-stacksmate"
+    },
+    {
+      "url": "https://github.com/radicleart/fe-thisisnumberone"
+    },
+    {
+      "url": "https://github.com/radicleart/ms-search"
+    },
+    {
+      "url": "https://github.com/radicleart/ms-stacksmate"
+    },
+    {
+      "url": "https://github.com/rafaelcr/stacks-blockchain-api-clients"
+    },
+    {
+      "url": "https://github.com/rafaelcr/stx-btc-api"
+    },
+    {
+      "url": "https://github.com/RamonDantas/login-blockstack"
+    },
+    {
+      "url": "https://github.com/RankJay/RoyalStacks"
+    },
+    {
+      "url": "https://github.com/RantumBits/emprezzo"
+    },
+    {
+      "url": "https://github.com/realChainLife/assure-manager"
+    },
+    {
+      "url": "https://github.com/rebase-network/blockstack-todo-list"
+    },
+    {
+      "url": "https://github.com/REBL-Stack/filebrowser"
+    },
+    {
+      "url": "https://github.com/REBL-Stack/REBL-drive"
+    },
+    {
+      "url": "https://github.com/REBL-Stack/starter-app"
+    },
+    {
+      "url": "https://github.com/recall-photos/recall-app"
+    },
+    {
+      "url": "https://github.com/recall-photos/recall-ios"
+    },
+    {
+      "url": "https://github.com/reedrosenbluth/knitwits"
+    },
+    {
+      "url": "https://github.com/richardmichel/stacks-loans"
+    },
+    {
+      "url": "https://github.com/Risidio/clarity-market"
+    },
+    {
+      "url": "https://github.com/Risidio/emailTemplateAPI"
+    },
+    {
+      "url": "https://github.com/Risidio/fe-lsat"
+    },
+    {
+      "url": "https://github.com/Risidio/fe-marketplace"
+    },
+    {
+      "url": "https://github.com/Risidio/fe-risidio"
+    },
+    {
+      "url": "https://github.com/Risidio/fe-rpay"
+    },
+    {
+      "url": "https://github.com/Risidio/fe-thisisnumberone"
+    },
+    {
+      "url": "https://github.com/Risidio/fe_TheRisidioProject"
+    },
+    {
+      "url": "https://github.com/Risidio/mailAPI"
+    },
+    {
+      "url": "https://github.com/Risidio/Marketplace112021"
+    },
+    {
+      "url": "https://github.com/Risidio/ms-assets"
+    },
+    {
+      "url": "https://github.com/Risidio/ms-mesh"
+    },
+    {
+      "url": "https://github.com/Risidio/ms-search"
+    },
+    {
+      "url": "https://github.com/Risidio/pankajLocal"
+    },
+    {
+      "url": "https://github.com/Risidio/radsoc"
+    },
+    {
+      "url": "https://github.com/Risidio/risidio-marketplace-prototype-1"
+    },
+    {
+      "url": "https://github.com/Risidio/risidio-technical-test-v1"
+    },
+    {
+      "url": "https://github.com/Risidio/risidioCorporateSiteEmailAPI"
+    },
+    {
+      "url": "https://github.com/Risidio/risidioMailAPI"
+    },
+    {
+      "url": "https://github.com/Risidio/risidioMailApi2"
+    },
+    {
+      "url": "https://github.com/ritik-crimsonbeans/BlockChain"
+    },
+    {
+      "url": "https://github.com/robertchen234/code-code-revolution-frontend"
+    },
+    {
+      "url": "https://github.com/robghchen/code-code-revolution-frontend"
+    },
+    {
+      "url": "https://github.com/RobZuazua/stackstacks"
+    },
+    {
+      "url": "https://github.com/rorychristianmurray/stackbook"
+    },
+    {
+      "url": "https://github.com/runefar1/cant-be-evil"
+    },
+    {
+      "url": "https://github.com/runkod/runkod-artwork"
+    },
+    {
+      "url": "https://github.com/runkod/runkod-cli"
+    },
+    {
+      "url": "https://github.com/runkod/runkod-responder"
+    },
+    {
+      "url": "https://github.com/ryanwaits/city-swaps-contracts"
+    },
+    {
+      "url": "https://github.com/ryanwaits/citycoin-ui"
+    },
+    {
+      "url": "https://github.com/ryanwaits/executor-dao"
+    },
+    {
+      "url": "https://github.com/ryanwaits/nft-bot"
+    },
+    {
+      "url": "https://github.com/saad-s/stacks-auth"
+    },
+    {
+      "url": "https://github.com/saad-tintash/stacks-auth"
+    },
+    {
+      "url": "https://github.com/Safieddine90/Clarity-Repo"
+    },
+    {
+      "url": "https://github.com/Sajakhtar/clarity-universe"
+    },
+    {
+      "url": "https://github.com/sanmnt/blockstackproject"
+    },
+    {
+      "url": "https://github.com/satoshibles/Domain-Name-List"
+    },
+    {
+      "url": "https://github.com/secretkeylabs/nft-lookup"
+    },
+    {
+      "url": "https://github.com/secretkeylabs/wallet-connect-example"
+    },
+    {
+      "url": "https://github.com/secretkeylabs/xverse-roadmap"
+    },
+    {
+      "url": "https://github.com/seetadev/TitleTransfer"
+    },
+    {
+      "url": "https://github.com/setonup/Poll"
+    },
+    {
+      "url": "https://github.com/setzeus/crash-punks-v2"
+    },
+    {
+      "url": "https://github.com/setzeus/NFT-FT-Staking-Grant-Example"
+    },
+    {
+      "url": "https://github.com/shadchnev/hello-world"
+    },
+    {
+      "url": "https://github.com/Shahzayb/jif-chat-stacks"
+    },
+    {
+      "url": "https://github.com/shawnantonucci/SocialShare-Dapp"
+    },
+    {
+      "url": "https://github.com/ShayaanJ/Hotel-DAO"
+    },
+    {
+      "url": "https://github.com/ShayaanJ/Hotel.DAO"
+    },
+    {
+      "url": "https://github.com/shea256/secret-sharing"
+    },
+    {
+      "url": "https://github.com/sheideman/blockstack-web-component-starter"
+    },
+    {
+      "url": "https://github.com/Shelob9/imaginary-shapes"
+    },
+    {
+      "url": "https://github.com/ShivamGoyal1899/DAppAnimalKingdom"
+    },
+    {
+      "url": "https://github.com/sigle/docs"
+    },
+    {
+      "url": "https://github.com/sigle/nft-bot"
+    },
+    {
+      "url": "https://github.com/sigle/register-username-connect"
+    },
+    {
+      "url": "https://github.com/sigle/remark-slate"
+    },
+    {
+      "url": "https://github.com/sigle/sigle"
+    },
+    {
+      "url": "https://github.com/sigle/sigle-ceramic"
+    },
+    {
+      "url": "https://github.com/sigle/slate-to-html"
+    },
+    {
+      "url": "https://github.com/sigle/slate-to-markdown"
+    },
+    {
+      "url": "https://github.com/sigle/stacks-bingo"
+    },
+    {
+      "url": "https://github.com/sigle/StacksNFTBot"
+    },
+    {
+      "url": "https://github.com/sigle/stxstats"
+    },
+    {
+      "url": "https://github.com/sigle/the-explorer-guild"
+    },
+    {
+      "url": "https://github.com/silvia-odwyer/xenon"
+    },
+    {
+      "url": "https://github.com/simonesquad/sbs-intake"
+    },
+    {
+      "url": "https://github.com/simplesecure/hello-simpleid"
+    },
+    {
+      "url": "https://github.com/skynethubio/SkySpaces"
+    },
+    {
+      "url": "https://github.com/Slyklaw/clarity-nft"
+    },
+    {
+      "url": "https://github.com/smithbaron/BitUtopian"
+    },
+    {
+      "url": "https://github.com/Sokos6/Learn-Clarity"
+    },
+    {
+      "url": "https://github.com/Sokos6/testingstacks"
+    },
+    {
+      "url": "https://github.com/sprainhill/stackbook"
+    },
+    {
+      "url": "https://github.com/sprect8/morning-clarity"
+    },
+    {
+      "url": "https://github.com/SpringRole/ask-feed-backend"
+    },
+    {
+      "url": "https://github.com/SpringRole/ask-feed-frontend"
+    },
+    {
+      "url": "https://github.com/SpringRole/block-kit-builder"
+    },
+    {
+      "url": "https://github.com/SpringRole/blockchain-cdk"
+    },
+    {
+      "url": "https://github.com/SpringRole/blockscout"
+    },
+    {
+      "url": "https://github.com/SpringRole/clarity-js-sdk"
+    },
+    {
+      "url": "https://github.com/SpringRole/clarity-sample-app"
+    },
+    {
+      "url": "https://github.com/SpringRole/crypto-puppers"
+    },
+    {
+      "url": "https://github.com/SpringRole/docker-nginx-https-redirect"
+    },
+    {
+      "url": "https://github.com/SpringRole/document_localization_training"
+    },
+    {
+      "url": "https://github.com/SpringRole/domain-verification"
+    },
+    {
+      "url": "https://github.com/SpringRole/education-parser"
+    },
+    {
+      "url": "https://github.com/SpringRole/eosportal-front"
+    },
+    {
+      "url": "https://github.com/SpringRole/equipment-manager"
+    },
+    {
+      "url": "https://github.com/SpringRole/eslint-config-sw"
+    },
+    {
+      "url": "https://github.com/SpringRole/eth-voting-dapp"
+    },
+    {
+      "url": "https://github.com/SpringRole/etherchain-light"
+    },
+    {
+      "url": "https://github.com/SpringRole/human-name-parser"
+    },
+    {
+      "url": "https://github.com/SpringRole/jquery.wizard"
+    },
+    {
+      "url": "https://github.com/SpringRole/jsoncompare"
+    },
+    {
+      "url": "https://github.com/SpringRole/move-example-app"
+    },
+    {
+      "url": "https://github.com/SpringRole/passport-civic"
+    },
+    {
+      "url": "https://github.com/SpringRole/passport-dock-io"
+    },
+    {
+      "url": "https://github.com/SpringRole/passport-yoti"
+    },
+    {
+      "url": "https://github.com/SpringRole/pretty-date-duration"
+    },
+    {
+      "url": "https://github.com/SpringRole/python-phonenumbers"
+    },
+    {
+      "url": "https://github.com/SpringRole/secure-bp-voting"
+    },
+    {
+      "url": "https://github.com/SpringRole/skill-project"
+    },
+    {
+      "url": "https://github.com/SpringRole/smart-contracts"
+    },
+    {
+      "url": "https://github.com/SpringRole/smart-contracts-V2"
+    },
+    {
+      "url": "https://github.com/SpringRole/SpringRole---Refer--Get-Paid-c53b6d54008e4f998c22a248e26ab937"
+    },
+    {
+      "url": "https://github.com/SpringRole/springscan-android-sdk"
+    },
+    {
+      "url": "https://github.com/SpringRole/springscan-documentation"
+    },
+    {
+      "url": "https://github.com/SpringRole/springverify-docs-slate"
+    },
+    {
+      "url": "https://github.com/SpringRole/springwallet"
+    },
+    {
+      "url": "https://github.com/SpringRole/sv-in-api-docs"
+    },
+    {
+      "url": "https://github.com/SpringRole/sv-us-docs"
+    },
+    {
+      "url": "https://github.com/SpringRole/tabookey-gasless"
+    },
+    {
+      "url": "https://github.com/SpringRole/teams-view-builder"
+    },
+    {
+      "url": "https://github.com/SpringRole/world-universities-csv"
+    },
+    {
+      "url": "https://github.com/StackedSats/Ansible"
+    },
+    {
+      "url": "https://github.com/StackedSats/payoutCLI"
+    },
+    {
+      "url": "https://github.com/StackedSats/Stacking-Dashboard"
+    },
+    {
+      "url": "https://github.com/StackedSats/StackingDashboard-Server"
+    },
+    {
+      "url": "https://github.com/StackedSats/stacksCalculator"
+    },
+    {
+      "url": "https://github.com/StackerDAOs/alexandria-stx-datalake"
+    },
+    {
+      "url": "https://github.com/StackerDAOs/backend"
+    },
+    {
+      "url": "https://github.com/StackerDAOs/mega-dao"
+    },
+    {
+      "url": "https://github.com/StackerDAOs/multisafe"
+    },
+    {
+      "url": "https://github.com/stacks-force/clarity-experiments"
+    },
+    {
+      "url": "https://github.com/stacks-force/force-sdk"
+    },
+    {
+      "url": "https://github.com/stacks-network/.github"
+    },
+    {
+      "url": "https://github.com/stacks-network/animal-kingdom"
+    },
+    {
+      "url": "https://github.com/stacks-network/app"
+    },
+    {
+      "url": "https://github.com/stacks-network/app-android"
+    },
+    {
+      "url": "https://github.com/stacks-network/app-mining"
+    },
+    {
+      "url": "https://github.com/stacks-network/app.co"
+    },
+    {
+      "url": "https://github.com/stacks-network/app.co-api"
+    },
+    {
+      "url": "https://github.com/stacks-network/atlas"
+    },
+    {
+      "url": "https://github.com/stacks-network/atlas-monitor"
+    },
+    {
+      "url": "https://github.com/stacks-network/bitcoin-p2p-firewall"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockchainprotocols.org"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-android"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-app"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-app-android"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-app-generator"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-bootstrap"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-browser"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-collection-schemas"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-collections"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-consensus-data"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-core"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-core-sidecar"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-explorer"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-explorer-api"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-files"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-ios"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-keychain"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-ledger-signer"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-proofs-py"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-react-native"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-ruby"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-search-indexer"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-stats"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-storage-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-todos"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-todos-vue"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-trezor-signer"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-ui"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack-utxo"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack.go"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack.js"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack.org"
+    },
+    {
+      "url": "https://github.com/stacks-network/blockstack.org-api"
+    },
+    {
+      "url": "https://github.com/stacks-network/BlockstackCoreApi-iOS-deprecated"
+    },
+    {
+      "url": "https://github.com/stacks-network/bounties"
+    },
+    {
+      "url": "https://github.com/stacks-network/c32check"
+    },
+    {
+      "url": "https://github.com/stacks-network/clarity-benchmarking"
+    },
+    {
+      "url": "https://github.com/stacks-network/clarity-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/clarity-js-sdk"
+    },
+    {
+      "url": "https://github.com/stacks-network/clarity-vscode"
+    },
+    {
+      "url": "https://github.com/stacks-network/cli-blockstack"
+    },
+    {
+      "url": "https://github.com/stacks-network/connect"
+    },
+    {
+      "url": "https://github.com/stacks-network/daily-scrum"
+    },
+    {
+      "url": "https://github.com/stacks-network/design-system"
+    },
+    {
+      "url": "https://github.com/stacks-network/designs"
+    },
+    {
+      "url": "https://github.com/stacks-network/discord-automod"
+    },
+    {
+      "url": "https://github.com/stacks-network/discourse-blockstack"
+    },
+    {
+      "url": "https://github.com/stacks-network/docs"
+    },
+    {
+      "url": "https://github.com/stacks-network/docs-api"
+    },
+    {
+      "url": "https://github.com/stacks-network/docs.blockstack"
+    },
+    {
+      "url": "https://github.com/stacks-network/eslint-config"
+    },
+    {
+      "url": "https://github.com/stacks-network/evangelists"
+    },
+    {
+      "url": "https://github.com/stacks-network/explorer"
+    },
+    {
+      "tags": [
+        "Protocol"
+      ],
+      "url": "https://github.com/stacks-network/gaia"
+    },
+    {
+      "url": "https://github.com/stacks-network/gh-action-testing"
+    },
+    {
+      "url": "https://github.com/stacks-network/hackathons"
+    },
+    {
+      "url": "https://github.com/stacks-network/heystack"
+    },
+    {
+      "url": "https://github.com/stacks-network/hiro.so"
+    },
+    {
+      "url": "https://github.com/stacks-network/jsontokens-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/key-encoder-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/keychain"
+    },
+    {
+      "url": "https://github.com/stacks-network/keychain-manager-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/keylib-py"
+    },
+    {
+      "url": "https://github.com/stacks-network/kube-integration-tests"
+    },
+    {
+      "url": "https://github.com/stacks-network/omniauth-blockstack"
+    },
+    {
+      "url": "https://github.com/stacks-network/packaging"
+    },
+    {
+      "url": "https://github.com/stacks-network/photoblock-demo"
+    },
+    {
+      "url": "https://github.com/stacks-network/prettier-config"
+    },
+    {
+      "url": "https://github.com/stacks-network/pybitcoin"
+    },
+    {
+      "url": "https://github.com/stacks-network/python-utilitybelt"
+    },
+    {
+      "url": "https://github.com/stacks-network/radiks"
+    },
+    {
+      "url": "https://github.com/stacks-network/radiks-server"
+    },
+    {
+      "url": "https://github.com/stacks-network/reading-list"
+    },
+    {
+      "url": "https://github.com/stacks-network/ruby-jwt-blockstack"
+    },
+    {
+      "url": "https://github.com/stacks-network/rx"
+    },
+    {
+      "url": "https://github.com/stacks-network/secret-sharing"
+    },
+    {
+      "url": "https://github.com/stacks-network/send-many-stx-cli"
+    },
+    {
+      "url": "https://github.com/stacks-network/smart-contract-sdk"
+    },
+    {
+      "url": "https://github.com/stacks-network/stackit"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-blockchain"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-blockchain-api"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-blockchain-docker"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-blockchain-sidecar"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-blockchain-testground"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-brand"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-community-projects"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-local-dev"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-project-list"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-transactions-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-utils"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-wallet"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-wallet-gh-actions-test"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks-wallet-web"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks.co"
+    },
+    {
+      "url": "https://github.com/stacks-network/stacks.js"
+    },
+    {
+      "url": "https://github.com/stacks-network/stats"
+    },
+    {
+      "url": "https://github.com/stacks-network/stx-brand"
+    },
+    {
+      "url": "https://github.com/stacks-network/subdomain-registrar"
+    },
+    {
+      "url": "https://github.com/stacks-network/todos"
+    },
+    {
+      "url": "https://github.com/stacks-network/transaction-broadcaster"
+    },
+    {
+      "url": "https://github.com/stacks-network/ui"
+    },
+    {
+      "url": "https://github.com/stacks-network/updates.blockstack.org"
+    },
+    {
+      "url": "https://github.com/stacks-network/ux"
+    },
+    {
+      "url": "https://github.com/stacks-network/virtualchain"
+    },
+    {
+      "url": "https://github.com/stacks-network/website-starter-kit"
+    },
+    {
+      "url": "https://github.com/stacks-network/when-rewards"
+    },
+    {
+      "url": "https://github.com/stacks-network/whitepaper"
+    },
+    {
+      "url": "https://github.com/stacks-network/whitepapers"
+    },
+    {
+      "url": "https://github.com/stacks-network/zone-file-js"
+    },
+    {
+      "url": "https://github.com/stacks-network/zone-file-py"
+    },
+    {
+      "url": "https://github.com/Stacks-Pakistan/BitMessenger"
+    },
+    {
+      "url": "https://github.com/Stacks-Pakistan/Login-Signup"
+    },
+    {
+      "url": "https://github.com/Stacks-Pakistan/QuizApp"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/awesome-stacks-chain"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/bridge-launch-governance"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/clarity-code-challenge"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/crypto-ecosystems"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/fly-stacks"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/miner-docs"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/render-stacks"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/stack-miner-docker"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/stacks-machine-images"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/stacks-miner-docker"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/stacksstatus"
+    },
+    {
+      "url": "https://github.com/stacksfoundation/utxos.org"
+    },
+    {
+      "url": "https://github.com/stacksgov/.github"
+    },
+    {
+      "url": "https://github.com/stacksgov/community"
+    },
+    {
+      "url": "https://github.com/stacksgov/grants-dashboard"
+    },
+    {
+      "url": "https://github.com/stacksgov/pm"
+    },
+    {
+      "url": "https://github.com/stacksgov/proposals"
+    },
+    {
+      "url": "https://github.com/stacksgov/residence-program"
+    },
+    {
+      "url": "https://github.com/stacksgov/resources"
+    },
+    {
+      "url": "https://github.com/stacksgov/sips"
+    },
+    {
+      "url": "https://github.com/stacksgov/stacks-advocates"
+    },
+    {
+      "url": "https://github.com/stacksgov/stacks-co"
+    },
+    {
+      "url": "https://github.com/stacksgov/Stacks-Grant-Launchpad"
+    },
+    {
+      "url": "https://github.com/stacksgov/Stacks-Grants"
+    },
+    {
+      "url": "https://github.com/stacksgov/survey"
+    },
+    {
+      "url": "https://github.com/stacksgov/updates"
+    },
+    {
+      "url": "https://github.com/stackswap/stackswap_contract_v1"
+    },
+    {
+      "url": "https://github.com/stealthyinc/referenda"
+    },
+    {
+      "url": "https://github.com/stealthyinc/stealthy.im"
+    },
+    {
+      "url": "https://github.com/Steemhunt/tvhunt-web"
+    },
+    {
+      "url": "https://github.com/stxapps/blockstack-android"
+    },
+    {
+      "url": "https://github.com/stxapps/blockstack-ios"
+    },
+    {
+      "url": "https://github.com/stxapps/blockstack-react-native"
+    },
+    {
+      "url": "https://github.com/stxapps/brace-client"
+    },
+    {
+      "url": "https://github.com/stxapps/brace-extensions"
+    },
+    {
+      "url": "https://github.com/stxapps/justnote-client"
+    },
+    {
+      "url": "https://github.com/stxapps/justnote-editor-in-webview"
+    },
+    {
+      "url": "https://github.com/stxapps/react-native-device-time-format"
+    },
+    {
+      "url": "https://github.com/stxapps/react-native-receive-sharing-intent"
+    },
+    {
+      "url": "https://github.com/stxapps/stacks-access-in-webview"
+    },
+    {
+      "url": "https://github.com/stxapps/stxapps-client"
+    },
+    {
+      "url": "https://github.com/stxapps/tailwind-checker"
+    },
+    {
+      "url": "https://github.com/stxapps/tailwind-rn"
+    },
+    {
+      "url": "https://github.com/suleman-mahmood/clarity-frontend-nextjs"
+    },
+    {
+      "url": "https://github.com/suleman-mahmood/nft-uni"
+    },
+    {
+      "url": "https://github.com/Sun-djata/blockpost"
+    },
+    {
+      "url": "https://github.com/Sun-djata/MegaRewards"
+    },
+    {
+      "url": "https://github.com/Sun-djata/nft-mint-multiple"
+    },
+    {
+      "url": "https://github.com/Sun-djata/postmessages"
+    },
+    {
+      "url": "https://github.com/Sun-djata/the-final-counter"
+    },
+    {
+      "url": "https://github.com/Sundly/sundly"
+    },
+    {
+      "url": "https://github.com/sunnymodi21/blockdoc"
+    },
+    {
+      "url": "https://github.com/syvita/bitcoin.clar"
+    },
+    {
+      "url": "https://github.com/syvita/buy-mia"
+    },
+    {
+      "url": "https://github.com/syvita/clarity-worker-poc"
+    },
+    {
+      "url": "https://github.com/syvita/daoos"
+    },
+    {
+      "url": "https://github.com/syvita/docs"
+    },
+    {
+      "url": "https://github.com/syvita/explorer"
+    },
+    {
+      "url": "https://github.com/syvita/kernel"
+    },
+    {
+      "url": "https://github.com/syvita/metaverse"
+    },
+    {
+      "url": "https://github.com/syvita/miamipool"
+    },
+    {
+      "url": "https://github.com/syvita/miamipool-mempool-worker"
+    },
+    {
+      "url": "https://github.com/syvita/mmc"
+    },
+    {
+      "url": "https://github.com/syvita/nothing"
+    },
+    {
+      "url": "https://github.com/syvita/registry"
+    },
+    {
+      "url": "https://github.com/syvita/solitude"
+    },
+    {
+      "url": "https://github.com/syvita/stacks"
+    },
+    {
+      "url": "https://github.com/syvita/standards"
+    },
+    {
+      "url": "https://github.com/syvita/storm"
+    },
+    {
+      "url": "https://github.com/syvita/syphre"
+    },
+    {
+      "url": "https://github.com/syvita/sypool"
+    },
+    {
+      "url": "https://github.com/syvita/syvita.org"
+    },
+    {
+      "url": "https://github.com/syvita/zion"
+    },
+    {
+      "url": "https://github.com/talhasch/boilerstack"
+    },
+    {
+      "url": "https://github.com/talhasch/lander"
+    },
+    {
+      "url": "https://github.com/talhasch/stx-node-map"
+    },
+    {
+      "url": "https://github.com/talhasch/test123"
+    },
+    {
+      "url": "https://github.com/tangosix/Apollos-React-WebGL"
+    },
+    {
+      "url": "https://github.com/taraldefi/taral"
+    },
+    {
+      "url": "https://github.com/thecodizt/ClarityProjects"
+    },
+    {
+      "url": "https://github.com/TheGreatAmericana/Compound"
+    },
+    {
+      "url": "https://github.com/theheroloop/webapp"
+    },
+    {
+      "url": "https://github.com/thelostcreatives/socialli"
+    },
+    {
+      "url": "https://github.com/theprivileges/animal-kingdom"
+    },
+    {
+      "url": "https://github.com/thiagomva/satshi"
+    },
+    {
+      "url": "https://github.com/thiagomva/securecalendar"
+    },
+    {
+      "url": "https://github.com/Timidan/clarity-voting"
+    },
+    {
+      "url": "https://github.com/tina1998612/Clarity-React-Counter-Example"
+    },
+    {
+      "url": "https://github.com/tintash/chainlink-integration"
+    },
+    {
+      "url": "https://github.com/tintash/clarity-examples"
+    },
+    {
+      "url": "https://github.com/tintash/clarity-projects"
+    },
+    {
+      "url": "https://github.com/tintash/dapp-builder"
+    },
+    {
+      "url": "https://github.com/tintash/generic-dao"
+    },
+    {
+      "url": "https://github.com/tintash/gringotts"
+    },
+    {
+      "url": "https://github.com/tintash/nft-barter"
+    },
+    {
+      "url": "https://github.com/tintash/nft-marketplace"
+    },
+    {
+      "url": "https://github.com/tintash/SampleCode"
+    },
+    {
+      "url": "https://github.com/tintash/solidity-learnings"
+    },
+    {
+      "url": "https://github.com/tintash/stacks-auth"
+    },
+    {
+      "url": "https://github.com/tiphub-io/tiphub"
+    },
+    {
+      "url": "https://github.com/tobycodes/stacks-ecom"
+    },
+    {
+      "url": "https://github.com/tofauti-net/tofauti"
+    },
+    {
+      "url": "https://github.com/tokyo-lab/btc-smart-contract"
+    },
+    {
+      "url": "https://github.com/toninorair/clarity-challenge-conference"
+    },
+    {
+      "url": "https://github.com/toninorair/clarity-guess-secret"
+    },
+    {
+      "url": "https://github.com/tony-rengel/clarity-market-clone"
+    },
+    {
+      "url": "https://github.com/tony-rengel/hai-nft-basics"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/ballot-box-ui"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/bitcoin-funding"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/blocksim"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/btc-web-utxo"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/console-splash"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/frost"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/lnswap-widget"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/magic-bridge"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/multisafe"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/multisafe-analytics"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/multisafe-ui"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/polynomial-rs"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/rust-secp256k1-math"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/secp256k1"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/stacks-2-1-testing"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/stacks-blockchain"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/stacks-dev-guide"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/stacks-docs"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/Wallet"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/Zest-Audit"
+    },
+    {
+      "url": "https://github.com/Trust-Machines/zest-contracts"
+    },
+    {
+      "url": "https://github.com/tuanphungcz/linkstacks.vercel.app"
+    },
+    {
+      "url": "https://github.com/tuanphungcz/linkstacks.xyz"
+    },
+    {
+      "url": "https://github.com/tyGavinZJU/miningbot"
+    },
+    {
+      "url": "https://github.com/unclemantis/freehold-send-stx"
+    },
+    {
+      "url": "https://github.com/unclemantis/miami"
+    },
+    {
+      "url": "https://github.com/unclemantis/pox-lite"
+    },
+    {
+      "url": "https://github.com/unclemantis/stackskards"
+    },
+    {
+      "url": "https://github.com/uonuon/bubo-webapp"
+    },
+    {
+      "url": "https://github.com/utkarsh23/access-control-for-IPFS"
+    },
+    {
+      "url": "https://github.com/utkarsh23/clearn"
+    },
+    {
+      "url": "https://github.com/utkarsh23/cryptoshots-web"
+    },
+    {
+      "url": "https://github.com/utkarsh23/lucky-stackers"
+    },
+    {
+      "url": "https://github.com/utkarsh23/stacker-squares"
+    },
+    {
+      "url": "https://github.com/utkarsh23/stacks-bots"
+    },
+    {
+      "url": "https://github.com/utkarsh23/stackscode"
+    },
+    {
+      "url": "https://github.com/ValeraLabs/storm"
+    },
+    {
+      "url": "https://github.com/Vaultilo/vaultilo-chrome-extension"
+    },
+    {
+      "url": "https://github.com/vektor-tech/hackunt"
+    },
+    {
+      "url": "https://github.com/vfbandeira/mypodium"
+    },
+    {
+      "url": "https://github.com/Viclinh/ClarNFT"
+    },
+    {
+      "url": "https://github.com/viraja1/blockstack_oracle"
+    },
+    {
+      "url": "https://github.com/viraja1/daily_bookmark"
+    },
+    {
+      "url": "https://github.com/viraja1/dapp_rewards"
+    },
+    {
+      "url": "https://github.com/virajmane/HiroTransactionVerifier"
+    },
+    {
+      "url": "https://github.com/vitoriaroas/eznft-api"
+    },
+    {
+      "url": "https://github.com/vvlabs/blockstackboardfinal"
+    },
+    {
+      "url": "https://github.com/vysetech/notekeeper"
+    },
+    {
+      "url": "https://github.com/vysetech/vyse-auth"
+    },
+    {
+      "url": "https://github.com/wearedevx/keystone"
+    },
+    {
+      "url": "https://github.com/weavery/clarc"
+    },
+    {
+      "url": "https://github.com/Webhero9297/clarity-smart-contracts"
+    },
+    {
+      "url": "https://github.com/westridgeblockchain/dualX"
+    },
+    {
+      "url": "https://github.com/wilsoncg/PaymentCharts"
+    },
+    {
+      "url": "https://github.com/wisdomabioye/aider"
+    },
+    {
+      "url": "https://github.com/wisdomabioye/confession"
+    },
+    {
+      "url": "https://github.com/wrappedfi/wrapped_token_stacks"
+    },
+    {
+      "url": "https://github.com/xiahuang119/testcitycoin"
+    },
+    {
+      "url": "https://github.com/xmakina/clarity-high-score"
+    },
+    {
+      "url": "https://github.com/xmakina/endless-list"
+    },
+    {
+      "url": "https://github.com/xmakina/redistribution-contract"
+    },
+    {
+      "url": "https://github.com/XWSHAMIM/Double-Spins"
+    },
+    {
+      "url": "https://github.com/Y-I-R-A-N/Elaine"
+    },
+    {
+      "url": "https://github.com/yanukadeneth99/Counter"
+    },
+    {
+      "url": "https://github.com/yanukadeneth99/Deeds"
+    },
+    {
+      "url": "https://github.com/yanukadeneth99/NFT-Tokens"
+    },
+    {
+      "url": "https://github.com/ygbgames/myfavorite"
+    },
+    {
+      "url": "https://github.com/yknl/animal-kingdom"
+    },
+    {
+      "url": "https://github.com/yknl/blockstack"
+    },
+    {
+      "url": "https://github.com/yknl/blockstack-browser"
+    },
+    {
+      "url": "https://github.com/yknl/blockstack-contacts"
+    },
+    {
+      "url": "https://github.com/yknl/blockstack.org"
+    },
+    {
+      "url": "https://github.com/yknl/electron-react-boilerplate"
+    },
+    {
+      "url": "https://github.com/yknl/publik"
+    },
+    {
+      "url": "https://github.com/yknl/stacks-chain-status"
+    },
+    {
+      "url": "https://github.com/yknl/stacks.js"
+    },
+    {
+      "url": "https://github.com/yplog/tasko"
+    },
+    {
+      "url": "https://github.com/Zeus-Adin/Clarity-Hackerton"
+    },
+    {
+      "url": "https://github.com/zexxlin/clarity-blind-poll"
+    },
+    {
+      "url": "https://github.com/zincwork/contracts"
+    },
+    {
+      "url": "https://github.com/Zondax/ledger-blockstack"
+    },
+    {
+      "url": "https://github.com/Zondax/ledger-stacks"
+    },
+    {
+      "url": "https://github.com/zone117x/blockstack-custom-gaia-demo"
+    },
+    {
+      "url": "https://github.com/zone117x/blockstack-file-api-demo"
+    },
+    {
+      "url": "https://github.com/zone117x/blockstack-monero"
+    },
+    {
+      "url": "https://github.com/zrixes/counter"
+    },
+    {
+      "url": "https://gitlab.com/blocksurvey/owllink"
+    },
+    {
+      "url": "https://gitlab.com/CodeDarkin/aroundtheblock"
+    },
+    {
+      "url": "https://gitlab.com/crooke/budget-app"
+    },
+    {
+      "url": "https://gitlab.com/marassifrancesco/atoms"
+    },
+    {
+      "url": "https://gitlab.com/marassifrancesco/cozyreader"
+    },
+    {
+      "url": "https://gitlab.com/riot.ai/landho"
+    },
+    {
+      "url": "https://gitlab.com/steve-dejo/animo"
+    },
+    {
+      "url": "https://gitlab.com/vaultilo/vaultilo-app"
+    }
+  ]
+}
