@@ -6,7 +6,6 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"net/http"
 	"os"
 	"sort"
 	"strings"
@@ -34,6 +33,51 @@ type Url struct {
 type Ecosystem struct {
 	GithubOrganizations []string `json:"github_organizations"`
 	Repo                []Url    `json:"repo"`
+}
+
+func printStats(weeklyStats WeeklyStats) {
+	// Get the dates, sort them and use that to print the map
+	keys := make([]time.Time, len(weeklyStats))
+	i := 0
+	for k := range weeklyStats {
+		keys[i] = k
+		i++
+	}
+	sort.Slice(keys, func(i, j int) bool {
+		return keys[i].Before(keys[j])
+	})
+
+	var m time.Month
+	var y int = 0
+	var reset bool
+	devs := make(map[int64]struct{})
+	for _, k := range keys {
+		if y == 0 {
+			y = k.Year()
+			m = k.Month()
+		}
+		// Compare years. If same, compare months.
+		reset = false
+		if y == k.Year() {
+			if m < k.Month() { // month has advanced, reset
+				reset = true
+			}
+		} else { // year has advanced, reset
+			reset = true
+		}
+		if reset {
+			fmt.Printf("%d-%d, %d\n", y, m, len(devs))
+			devs = make(map[int64]struct{})
+			y = k.Year()
+			m = k.Month()
+		}
+
+		// Add all devs for this week to the monthly set
+		for id := range weeklyStats[k] {
+			devs[id] = sentinel
+		}
+	}
+	fmt.Printf("%d-%d, %d\n", y, m, len(devs))
 }
 
 func collectRepos(cfg config, file string) map[string]struct{} {
@@ -127,48 +171,7 @@ func processRepos(cfg config, repoMap map[string]struct{}) {
 		}
 	}
 
-	// Get the dates, sort them and use that to print the map
-	keys := make([]time.Time, len(weeklyStats))
-	i := 0
-	for k := range weeklyStats {
-		keys[i] = k
-		i++
-	}
-	sort.Slice(keys, func(i, j int) bool {
-		return keys[i].Before(keys[j])
-	})
-
-	for _, k := range keys {
-		fmt.Println(k, len(weeklyStats[k]))
-	}
-}
-
-func processContribsForRepo(cfg config, owner string, repo string) {
-	stats, resp, err := cfg.client.Repositories.ListContributorsStats(cfg.ctx, owner, repo)
-	if err != nil {
-		fmt.Println(err)
-	}
-	if resp.Response.StatusCode != http.StatusOK {
-		fmt.Println("Warning, data might be stale: ", resp.Response.StatusCode)
-	}
-
-	weeklyStats := make(WeeklyStats)
-	for _, c := range stats {
-		fmt.Println(c.GetAuthor().GetLogin(), c.GetAuthor().GetID(), c.GetTotal(), len(c.Weeks))
-		for _, w := range c.Weeks {
-			if w.GetCommits() > 0 {
-				fmt.Println("Adding ", c.GetAuthor().GetLogin(), " to week ", w.Week)
-				// Initialize a contributor map for this week if none exists
-				if _, exists := weeklyStats[w.Week.Time]; !exists {
-					weeklyStats[w.Week.Time] = make(map[int64]struct{})
-				}
-				weeklyStats[w.Week.Time][c.GetAuthor().GetID()] = sentinel
-			}
-		}
-	}
-	for ts, c := range weeklyStats {
-		fmt.Println(ts, c)
-	}
+	printStats(weeklyStats)
 }
 
 func main() {
