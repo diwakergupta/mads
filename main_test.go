@@ -5,7 +5,7 @@ import (
 )
 
 func Example_printStats() {
-	stats := WeeklyStats{
+	stats := StatsMap{
 		time.Date(2022, time.December, 14, 0, 0, 0, 0, time.UTC): map[int64]struct{}{1: sentinel, 2: sentinel, 3: sentinel},
 		time.Date(2023, time.January, 1, 0, 0, 0, 0, time.UTC):   map[int64]struct{}{1: sentinel, 2: sentinel, 3: sentinel},
 		// 4 unique devs in November

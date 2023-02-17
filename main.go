@@ -16,7 +16,7 @@ import (
 )
 
 // Create a map from week (by date) to a map of contributors (identified by id)
-type WeeklyStats map[time.Time]map[int64]struct{}
+type StatsMap map[time.Time]map[int64]struct{}
 
 type config struct {
 	ctx    context.Context
@@ -35,7 +35,7 @@ type Ecosystem struct {
 	Repo                []Url    `json:"repo"`
 }
 
-func printStats(weeklyStats WeeklyStats) {
+func printStats(weeklyStats StatsMap) {
 	// Get the dates, sort them and use that to print the map
 	keys := make([]time.Time, len(weeklyStats))
 	i := 0
@@ -141,7 +141,7 @@ func handleRateLimit(err *github.RateLimitError) {
 }
 
 func processRepos(cfg config, repoMap map[string]struct{}) {
-	weeklyStats := make(WeeklyStats)
+	stats := make(StatsMap)
 
 	for k := range repoMap {
 		parts := strings.Split(k, "/")
@@ -153,25 +153,26 @@ func processRepos(cfg config, repoMap map[string]struct{}) {
 		repo := parts[len(parts)-1]
 		log.Println("Processing owner/repo", owner, repo)
 
-		stats, err := getStats(cfg.ctx, cfg.client, owner, repo)
+		weeklyStats, err := getStats(cfg.ctx, cfg.client, owner, repo)
 		if err != nil {
 			fmt.Println(err)
 		}
 
-		for _, c := range stats {
+		for _, c := range weeklyStats {
 			for _, w := range c.Weeks {
-				if w.GetCommits() > 0 {
+				if w.GetCommits() > 0 { // Only count positive commits
 					// Initialize a contributor map for this week if none exists
-					if _, exists := weeklyStats[w.Week.Time]; !exists {
-						weeklyStats[w.Week.Time] = make(map[int64]struct{})
+					if _, exists := stats[w.Week.Time]; !exists {
+						stats[w.Week.Time] = make(map[int64]struct{})
 					}
-					weeklyStats[w.Week.Time][c.GetAuthor().GetID()] = sentinel
+					// Add this developer for this week
+					stats[w.Week.Time][c.GetAuthor().GetID()] = sentinel
 				}
 			}
 		}
 	}
 
-	printStats(weeklyStats)
+	printStats(stats)
 }
 
 func main() {
